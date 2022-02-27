@@ -10,13 +10,13 @@ alias_cn: 夕岚导航
 description: A Navigation Website for XiLan
 keywords: 夕岚导航, XiLan-Navi, Navi, Navigation
 url: https://google.philsilver.xyz
-established_at: "2016-10-01T00:00+08:00"
+established_at: "2021-08-06T00:00+08:00"
 
-author: PhilSilver
-author_url: https://irockbunny.com
-organization: TEELAB
-organization_url: https://teelab.net
-contact: contact[at]irockbunny[dot]com
+#author: PhilSilver
+#author_url: https://irockbunny.com
+#organization: TEELAB
+#organization_url: https://teelab.net
+#contact: contact[at]irockbunny[dot]com
 
 image: /images/logo.png
 logo: /images/logo.png
