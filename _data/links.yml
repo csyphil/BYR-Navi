@@ -10,55 +10,85 @@
       url: https://www.tmall.com/
 
     - name: 京东
-      style: basic
+      style: red
       url: https://www.jd.com/
+      
+    - name: <span class="ui medium black text">美团 
+      style: yellow
+      url: https://meituan.com/      
 
+    - name: 拼多多
+      style: basic
+      icon: store red
+      url: https://mobile.pinduoduo.com/
+      
     - name: Amazon
       icon: amazon yellow
       style: basic
       url: https://www.amazon.cn/
 
+    - name: Samsung
+      style: blue
+      icon: mobile alternate white
+      url: https://www.samsungeshop.com.cn/
+      
     - name: Apple
       style: basic
       icon: apple grey
-      url: https://www.apple.com/
+      url: https://www.apple.com.cn/
 
+    - name: 大疆
+      style: black
+      icon: plane white
+      url: https://www.dji.com/
+
+    - name: 小米商城
+      style: orange
+      url: https://www.mi.com/
+
+    - name: 小米有品
+      style: brown
+      url: https://xiaomiyoupin.com/
+
+    - name: 锤子
+      style: basic
+      icon: hammer red
+      url: https://www.smartisan.com/
+      
     - name: 当当
-      style: pink
-      url: http://www.dangdang.com/
+      style: basic
+      icon: shopping basket red 
+      url: https://www.dangdang.com/
 
     - name: 严选
       style: basic
-      url: http://you.163.com/
+      url: https://you.163.com/
 
     - name: UNIQLO
       style: red
-      url: http://www.uniqlo.cn/
+      url: https://www.uniqlo.cn/
 
     - name: MUJI
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://www.muji.com.cn/
 
     - name: IKEA
-      style: yellow
+      style: blue
       url: https://www.ikea.cn/
 
     - name: Decathlon
       style: blue
       url: https://www.decathlon.com.cn/
 
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
+    - name: 造作
+      style: basic
+      url: https://zaozuo.com/
 
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
-
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: https://www.dianping.com/
+      
   - name: 工具
     links:
     - name: '12306'
@@ -69,12 +99,7 @@
     - name: 快递查询
       icon: truck olive
       style: basic
-      url: https://kuaidi100.com/
-
-    - name: 大众点评
-      icon: utensils orange
-      style: basic
-      url: https://www.dianping.com/
+      url: https://www.kuaidi100.com/
 
     - name: 网易邮箱
       icon: envelope red
@@ -95,17 +120,37 @@
       icon: google red
       style: basic
       url: https://mail.google.com/
+      
+    - name: Outlook
+      icon: envelope blue
+      style: basic
+      url: https://www.outlook.com/
+
+    - name: Notion
+      icon: sticky note yellow 
+      style: basic
+      url: https://www.notion.so/
+      
+    - name: 有道翻译
+      style: basic
+      icon: spell check red
+      url: https://fanyi.youdao.com/
+
+    - name: 金山词霸
+      style: basic
+      icon: spell check blue
+      url: https://www.iciba.com/
 
     - name: 谷歌翻译
       icon: language blue
       style: basic
-      url: https://translate.google.com/
+      url: https://translate.google.cn/
 
     - name: 百度翻译
       icon: paw blue
       style: basic
       url: https://fanyi.baidu.com/
-
+      
     - name: 维基百科
       icon: wikipedia w black
       style: basic
@@ -114,42 +159,85 @@
     - name: 彩云天气
       icon: cloud olive
       style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
+      url: https://caiyunapp.com/map
+      
+    - name: 百度云盘
       style: basic
-      url: https://www.tianyancha.com/
+      icon: cloud blue
+      url: https://pan.baidu.com/
+    
+    - name: 阿里云盘
+      style: basic
+      icon: cloud violet
+      url: https://www.aliyundrive.com/drive
+      
+    - name: 天翼云盘
+      style: basic
+      icon: cloud download orange
+      url: https://cloud.189.cn/
 
-    # - name: 稿定设计
-    #   style: basic
-    #   url: https://www.gaoding.com/
-
-    # - name: MacWk
-    #   style: basic
-    #   url: https://macwk.com/
-
+    - name: 坚果云盘
+      style: basic
+      icon: cloud upload brown
+      url: https://www.jianguoyun.com/
+      
   - name: 社交
     links:
+    - name: Telegram电报
+      icon: telegram plane blue
+      style: basic
+      url: https://telegram.org/    
+    
+    - name: Twitter
+      style: basic
+      icon: twitter blue
+      url: https://twitter.com/
+      
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+      
     - name: 微博
       icon: weibo red
       style: basic
       url: https://weibo.com/
 
-    - name: 微信网页版
+    - name: 豆瓣
+      icon: seedling green inverted
+      style: basic
+      url: https://www.douban.com/
+      
+    - name: Google Voice
+      icon: phone square alternate green
+      style: basic
+      url: https://voice.google.com/
+      
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: https://www.instagram.com/
+      
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/
+
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+      
+    - name: 腾讯QQ
+      icon: qq blue
+      style: basic
+      url: https://im.qq.com/
+      
+    - name: 微信Wechat
       icon: weixin green
       style: basic
-      url: https://wx.qq.com/
-
-    - name: 百度贴吧
-      icon: paw blue
-      style: basic
-      url: https://tieba.baidu.com/
-
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-
+      url: https://weixin.qq.com/
+      
     - name: Quora
       icon: quora red
       style: basic
@@ -160,43 +248,67 @@
       style: basic
       url: https://www.facebook.com/
 
-    - name: Google+
-      icon: google plus g red
+    - name: Mail.com
+      icon: envelope grey
       style: basic
-      url: https://plus.google.com/
+      url: https://www.mail.com/
 
-    - name: Tumblr
-      icon: tumblr blue
+    - name: 10MinsMail
+      icon: envelope grey
       style: basic
-      url: https://www.tumblr.com/
+      url: https://10minutemail.com/
 
-    - name: Instagram
-      icon: instagram pink
+    - name: Tempinbox
+      icon: envelope grey
       style: basic
-      url: https://www.instagram.com/
+      url: https://www.tempinbox.com/
 
-    - name: GitHub
-      icon: github black
+    - name: ProtonMail
       style: basic
-      url: https://github.com/
-
-    - name: LinkedIn
-      icon: linkedin blue
+      icon: envelope grey
+      url: https://protonmail.com/zh-Hans/
+      
+    - name: rootsh
       style: basic
-      url: https://www.linkedin.com/
+      icon: envelope grey
+      url: https://rootsh.com/   
+      
+    - name: mail.td
+      style: basic
+      icon: envelope grey
+      url: https://mail.td/zh
 
   - name: 学习
     links:
     - name: Coursera
       style: basic
+      icon: graduation cap blue
       url: https://www.coursera.org/
 
     - name: MOOC
       style: basic
       url: https://mooc.org/
+      
+    - name: UMOOCs
+      style: basic
+      url: https://moocs.unipus.cn/
 
+    - name: MOOC中国
+      style: basic
+      url: https://www.cmooc.com/
+
+    - name: 中国大学MOOC
+      style: basic
+      icon: book open green
+      url: https://www.icourse163.org/
+      
+    - name: TED
+      style: red
+      url: https://www.ted.com/      
+      
     - name: 网易公开课
       style: basic
+      icon: chalkboard teacher green
       url: https://open.163.com/
 
     - name: W3School
@@ -207,14 +319,18 @@
       icon: stack overflow orange
       style: basic
       url: https://stackoverflow.com/
+      
+    - name: Doyoudo
+      style: basic
+      url: https://www.doyoudo.com/free
+      
+    - name: Tutorials Point
+      style: basic
+      url: https://www.tutorialspoint.com/
 
     - name: SegmentFault
       style: basic
       url: https://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
 
     - name: Google Open Source
       icon: code blue
@@ -233,20 +349,42 @@
       style: basic
       url: https://cn.udacity.com/
 
+    - name: 好知网
+      style: basic
+      url: https://www.howzhi.com/
+
+    - name: 秒秒学
+      style: basic
+      url: https://www.miaomiaoxue.com/
+
+    - name: 我要自学网
+      style: basic
+      url: https://www.51zxw.net/
+
     - name: 云英语
       style: black
       url: https://www.y-english.org/
 
-  - name: 娱乐
-    links:
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
 
+  - name: 影视娱乐
+    links:
     - name: Youtube
       icon: youtube red
       style: basic
       url: https://youtube.com/
+
+    - name: Netflix
+      icon: film red
+      style: basic
+      url: https://www.netflix.com/
+      
+    - name: 优酷
+      style: basic
+      url: https://youku.com/
+
+    - name: 土豆
+      style: basic
+      url: https://tudou.com/
 
     - name: 爱奇艺
       style: green
@@ -254,7 +392,7 @@
 
     - name: 芒果
       style: orange
-      url: http://mgtv.com/
+      url: https://mgtv.com/
 
     - name: 腾讯视频
       style: basic
@@ -277,26 +415,9 @@
       style: basic
       url: https://movie.douban.com/
 
-    - name: FIX
-      style: yellow
-      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
-
-    - name: FIX
-      icon: file excel green
-      style: basic
-      url: https://docs.qq.com/sheet/DWm16S2lEdkF2QnNF
-
-    - name: NEW
-      style: basic
-      url: https://newzmz.com/tvslist.html
-
     - name: 弯弯
       style: blue
       url: http://wanwansub.com/node/139
-
-    - name: 阿哥
-      style: orange
-      url: https://agmov.com/
 
     - name: 猪猪
       style: purple
@@ -304,177 +425,917 @@
 
     - name: TNH
       style: basic
-      url: https://www.tnhsub.com/
+      url: https://www.tokyonothot.com/
+
+    - name: 追新番
+      style: red
+      url: http://www.fanxinzhui.com/
 
     - name: 幻樱
       style: pink
       url: http://www.hysub.net/
 
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
+    - name: 美剧天堂
+      style: blue
+      url: https://www.meijutt.tv/
+      
+    - name: 电影1905
+      style: basic
+      url: https://www.1905.com/
+
+    - name: 好片网
+      style: basic
+      url: https://www.cnwml.com/
+      
+    - name: 久久影视网
+      style: green
+      url: https://www.jiujiukanpian.com/
+
+    - name: 555电影
+      style: basic
+      url: https://www.555dy.cc/
+      
+    - name: 2BTV
+      style: basic
+      url: https://www.2btv.eu/      
+
+    - name: 爱达杂货铺
+      style: blue
+      url: https://adzhp.cn/mian-fei-shi-pin.html
+      
+    - name: 懒人资源(聚合)
+      style: grey
+      url: http://lazymovie.me/
+      
 
 - categories:
-  - name: 北邮校园
+  - name: 个人建站
     links:
-    - name: 北邮官网
+    - name: 个人博客
       style: basic
-      url: https://www.bupt.edu.cn/
-
-    # - name: 本科教务系统
-    #   style: basic
-    #   url: https://jwgl.bupt.edu.cn/jsxsd/
-
-    - name: 研究生教务系统
+      icon: wordpress blue
+      url: https://blog.philsilver.xyz/
+      
+    - name: 兰空图床
       style: basic
-      url: http://yjxt.bupt.edu.cn/
-
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
-
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
+      icon: images outline
+      url: https://image.philsilver.xyz/
+      
+    - name: Whois查询
       style: blue
-      url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: https://whois.philsilver.xyz/      
 
-    # - name: 北邮IPTV
-    #   style: basic
-    #   url: http://tv.byr.cn/
-
-    # - name: 信息门户
-    #   style: basic
-    #   url: http://my.bupt.edu.cn/
-
-    - name: 图书馆
+    - name: 独角发卡
       style: basic
-      url: http://lib.bupt.edu.cn/
+      icon: shopping bag 
+      url: https://djfaka.philsilver.xyz/
 
-    - name: 北邮贴吧
+    - name: 风铃发卡
       style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+      icon: shopping cart 
+      url: https://faka.philsilver.xyz/
 
-    - name: 校园网
+    - name: Kamifaka
       style: basic
-      url: http://nic.bupt.edu.cn/
-
-    - name: 北邮邮箱
+      url: https://kamifaka.philsilver.xyz/
+      
+    - name: Discuz!
       style: basic
-      url: http://mail.bupt.edu.cn/
+      url: https://discuz.philsilver.xyz/
 
-    # - name: VPN服务
-    #   style: basic
-    #   url: https://nic.bupt.edu.cn/list/list.php?p=5_13_1
+    - name: 可道云盘
+      style: blue
+      icon: cloud download alternate white
+      url: https://cloud.philsilver.xyz
 
-    # - name: 空闲自习室查询
-    #   style: basic
-    #   url: http://buptclass.com/
-
-  - name: 校园助手
-    links:
-    - name: 空余教室查询
+    - name: Alist网盘列表
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
-
-    - name: 辅修专业
+      icon: save outline
+      url: https://pan.philsilver.xyz/
+      
+    - name: Aria2NG
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
-
-    - name: 毕业设计
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
-
-    - name: 学生校际选修
-      style: basic
-      url: http://www.xueyuanlu.cn/
-
-    - name: 创新学分
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
-
-    - name: 课表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
-
-    - name: 考表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-    - name: 出国成绩单办理
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
-
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
-
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
-
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
-
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
-
-  - name: 论坛相关
-    links:
-    - name: 北邮人论坛
+      url: https://aria.philsilver.xyz/
+      
+    - name: Netcup
       style: teal
-      url: http://bbs.byr.cn/
-
-    - name: 游客版论坛
+      icon: server
+      url: https://www.netcup.de/
+      
+    - name: Netcup Panel
       style: basic
-      url: http://bbs.cloud.icybee.cn/
-
-    - name: 检索论坛内容
+      url: https://www.customercontrolpanel.de/
+      
+    - name: Contabo
       style: basic
-      url: http://search.icybee.cn/
+      icon: server
+      url: https://contabo.com/en/vps/
+      
+    - name: Vultr
+      style: blue
+      icon: server white
+      url: https://my.vultr.com/
 
-    # - name: 检索用户发帖
-    #   style: basic
-    #   url: http://search.lovezxp.com/
+    - name: Oracle Cloud
+      style: blue
+      icon: database white
+      url: https://cloud.oracle.com/?region=ap-tokyo-1
+      
+    - name: 腾讯云
+      style: blue
+      icon: server white
+      url: https://console.cloud.tencent.com/lighthouse/instance/index
 
-    - name: 查看论坛数据
+    - name: 导航
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+      icon: compass 
+      url: https://philsilver.cf/    
 
-    - name: 论坛APP
-      icon: app store
+    - name: Cloudflare
+      style: orange
+      icon: cloud white
+      url: https://dash.cloudflare.com
+
+    - name: ServerStatus
+      style: basic
+      icon: heartbeat
+      url: https://status.philsilver.xyz/
+      
+    - name: UptimeKuma
+      style: green
+      icon: tachometer alternate
+      url: https://uptime.philsilver.xyz/status
+      
+    - name: 个人主页
+      style: basic
+      icon: yin yang 
+      url: https://philsilver.xyz/
+    
+    - name: PayPal
+      style: blue
+      icon: paypal white
+      url: https://www.paypal.com/c2/home
+      
+
+  - name: 建站及技术服务
+    links:
+    - name: 全球主机交流论坛(LOC)
+      style: purple
+      icon: server white
+      url: https://hostloc.com/
+
+    - name: IT之家
+      style: red
+      icon: laptop white
+      url: https://www.ithome.com/
+      
+    - name: 卡饭网
+      style: basic
+      url: https://www.kafan.cn/
+      
+    - name: 蓝点网
+      style: blue
+      icon: windows white
+      url: https://www.landian.vip/os/win
+
+    - name: 远景论坛
+      style: blue
+      url: https://bbs.pcbeta.com/
+      
+    - name: IPIP.net
+      style: basic
+      url: https://www.ipip.net/ip.html
+
+    - name: Namesilo域名
+      style: basic
+      url: https://www.namesilo.com/
+      
+    - name: Godaddy域名
+      style: basic
+      url: https://dcc.godaddy.com/domains
+      
+    - name: IT狗
+      style: basic
+      icon: dog 
+      url: https://www.itdog.cn/
+
+    - name: Freenom免费域名
+      style: basic
+      url: https://my.freenom.com/clientarea.php?action=domains
+
+    - name: Sukka网络诊断与调试
       style: black
-      url: https://apps.apple.com/cn/app/id1115232927
+      url: https://debug.skk.moe/
 
-    - name: 论坛APP
-      icon: google play
+    - name: Chinaz站长工具
+      style: basic
+      icon: tools 
+      url: https://ping.chinaz.com/
+      
+    - name: IP可用性检测工具
+      style: basic
+      icon: globe blue
+      url: https://www.toolsdaquan.com/ipcheck/
+
+    - name: Greasy Fork 脚本
       style: black
-      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
-
-    - name: 论坛官方微博
+      url: https://greasyfork.org/zh-CN
+      
+    - name: 在线扒站
       style: basic
-      url: http://weibo.com/byrbbs
-
-    - name: 论坛投票区
+      url: https://bazhan.me/
+      
+    - name: MTR.sh 
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: https://mtr.sh/
+      
+    - name: 测速网
+      style: basic
+      icon: tachometer alternate
+      url: https://www.speedtest.cn/
 
-    # - name: 玩转论坛指南
+    - name: WIFI后台
+      style: basic
+      icon: wifi blue
+      url: http://192.168.1.1/
+      
+    - name: LOC图床
+      style: basic
+      icon: image outline
+      url: https://www.locimg.com/
+      
+    - name: IP Address
+      style: basic
+      icon: angle double right green
+      url: https://www.ipaddress.com/
+      
+    - name: Telegra.ph
+      style: basic
+      icon: edit outline
+      url: https://telegra.ph/
+      
+    - name: 拔测
+      style: basic
+      icon: project diagram blue
+      url: https://www.boce.com/
+      
+  - name: 技术博客
+    links:
+    - name: <span class="ui medium black text">大鸟博客
+      style: yellow
+      url: https://www.daniao.org/
+
+    - name: 果核站长博客
+      style: blue
+      url: https://www.lovestu.com/
+
+    - name: 广然笔记
+      style: teal
+      url: https://www.rsecc.cn/
+
+    - name: 半山烟雨
+      style: grey
+      url: https://www.aalyh.cn/
+
+    - name: 老奶狗博客
+      style: basic
+      url: https://www.owoc.cn/
+
+    - name: 开心VPS
+      style: blue
+      url: https://www.kxceping.com/
+
+    - name: VPSNO
+      style: basic
+      url: http://www.vpsno.com/
+
+    - name: Vultr教程整理
+      style: basic
+      url: https://www.vultryhw.cn/vultr-all-guides/
+
+    - name: 老左笔记
+      style: basic
+      url: https://www.laozuo.org/hosting
+
+    - name: 新手站长网
+      style: basic
+      url: https://www.xinshouzhanzhang.com/
+
+    - name: 希儿博客
+      style: pink
+      url: https://fenhao.me/
+
+    - name: 奇他博客
+      style: blue
+      url: https://qitablog.com/
+
+    - name: 极客公园
+      style: black
+      url: https://gitcafe.net/
+      
+    - name: 缙哥哥博客
+      style: basic
+      url: https://www.dujin.org/
+      
+    - name: 笨猫博客
+      style: basic
+      icon: paw orange
+      url: https://www.nbmao.com/
+      
+    - name: 老D博客
+      style: blue
+      url: https://laod.cn/
+      
+    - name: 咔格咘
+      style: basic
+      url: https://www.vwmwv.cn/
+      
+    - name: <span class="ui medium black text">资源否
+      style: yellow
+      url: https://www.zyfou.com/
+      
+    - name: 墨涩网
+      style: basic
+      url: https://www.sunweihu.com/
+
+    - name: Hostloc Toolbox
+      style: basic
+      icon: mountain green
+      url: https://hostloc.1234234.xyz/#/
+      
+    - name: 仙人小站
+      style: basic 
+      icon: grin squint tears outline
+      url: https://www.wrnxr.cn/
+      
+    - name: 科技玩家
+      style: basic
+      icon: lightbulb outline yellow
+      url: https://www.kejiwanjia.com/
+      
+    - name: Netcup status
+      style: blue
+      icon: wave square white
+      url: https://www.netcup-status.de/
+      
+  - name: 资源获取网站
+    links:
+    - name: <span class="ui medium black text">果核剥壳
+      style: yellow
+      url: https://www.ghxi.com/
+
+    - name: 423Down
+      style: grey
+      url: https://www.423down.com/
+
+    - name: Steam
+      style: basic
+      icon: steam blue 
+      url: https://store.steampowered.com/
+      
+    - name: Epic
+      style: basic
+      icon: gamepad grey
+      url: https://www.epicgames.com/store/zh-CN/
+      
+    - name: 鹏少资源网
+      style: black
+      url: https://www.jokerps.com/
+
+    - name: 流水断崖
+      style: green
+      url: https://lsdy.top/
+
+    - name: 音速装机
+      style: grey
+      url: https://sonic.volf.club/
+
+    - name: 盒子部落
+      style: blue
+      url: https://www.hezibuluo.com/
+
+    - name: 小众软件
+      style: basic
+      url: https://www.appinn.com/
+
+    - name: 良心国产
+      style: basic
+      url: https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn/china-apps
+
+    - name: 晨钟科技
+      style: orange
+      url: https://www.jamcz.com/
+    
+    - name: Qiuquan精品软件
+      style: blue
+      url: http://www.qiuquan.cc/
+
+    - name: Intel驱动下载
+      style: blue
+      url: https://www.intel.cn/content/www/cn/zh/download-center/home.html
+      
+    - name: Nvidia驱动下载
+      style: green
+      url: https://www.nvidia.cn/Download/index.aspx?lang=cn
+
+- categories:
+  - name: 办公网站
+    links:
+    - name: 比格PPT
+      style: red
+      url: http://www.tretars.com/
+
+    - name: 优品PPT
+      style: blue
+      url: https://www.ypppt.com/
+
+    - name: PPT资源导航
+      style: blue
+      url: https://www.hippter.com/
+
+    - name: 优设导航
+      style: basic
+      url: https://hao.uisdc.com/
+
+    - name: 一键生成
+      style: grey
+      url: https://www.itbour.com/
+
+    - name: 1PPT
+      style: orange
+      url: http://www.1ppt.com/
+
+    - name: 动画演示大师
+      style: blue
+      url: https://www.focusky.com.cn/
+
+    - name: 办公资源网
+      style: basic
+      url: https://www.bangongziyuan.com/
+
+    - name: ilovePDF
+      style: orange
+      url: https://www.ilovepdf.com/zh-cn
+
+    - name: Small PDF
+      style: basic
+      url: https://smallpdf.com/cn
+
+    - name: Hi PDF
+      style: basic
+      url: https://www.hipdf.com/
+
+    - name: Light PDF
+      style: basic
+      url: https://lightpdf.com/
+
+    - name: 路过图床
+      style: basic
+      icon: image outline
+      url: https://imgtu.com/
+
+    - name: 遇见图床
+      style: basic
+      icon: image outline
+      url: https://www.hualigs.cn/
+      
+    - name: ImageURL图床
+      style: basic
+      icon: image outline
+      url: https://imgurl.org/
+      
+    - name: 聚合图床
+      style: basic
+      icon: image outline
+      url: https://www.superbed.cn/
+      
+    - name: 图床-BeJSON.com
+      style: basic
+      icon: image outline
+      url: https://www.bejson.com/ui/tuchuang/
+      
+    - name: Office-Converter
+      style: basic
+      url: https://cn.office-converter.com/
+
+    - name: 文件转换器
+      style: red
+      url: https://convertio.co/zh/
+
+  - name: 文件图片处理
+    links:
+    - name: TinyPNG
+      style: grey
+      url: https://tinypng.com/
+
+    - name: BigJPG
+      style: grey
+      url: https://bigjpg.com/
+
+    - name: iLoveIMG
+      style: blue
+      url: https://www.iloveimg.com/zh-cn
+
+    - name: V视频助手
+      style: green
+      url: http://v.ranks.xin/
+
+    - name: 创客贴
+      style: blue
+      url: https://www.chuangkit.com/
+
+    - name: ProcessON
+      style: blue
+      url: https://www.processon.com/
+
+    - name: 迅捷流程图
+      style: blue
+      url: https://draw.liuchengtu.net/
+
+    - name: 智图
+      style: blue
+      url: https://zhitu.isux.us/
+
+    - name: 稿定设计
+      style: basic
+      url: https://www.gaoding.com/
+
+    - name: 稿定设计抠图
+      style: blue
+      url: https://www.gaoding.com/koutu
+
+    - name: 稿定PS在线
+      style: black
+      url: https://www.uupoop.com/#/
+      
+    - name: 图怪兽
+      style: red
+      url: https://818ps.com/
+
+    - name: Removebg(去除背景)
+      style: grey
+      url: https://www.remove.bg/zh
+      
+    - name: waifu图片降噪放大
+      style: basic
+      url: http://waifu2x.udp.jp/
+
+    - name: Apowersoft在线压缩
+      style: blue
+      url: https://www.apowersoft.cn/compress-file-online
+
+    - name: <span class="ui medium black text">钙网-免费logo制作
+      style: yellow
+      url: https://uugai.com/
+
+    - name: Squoosh-图片压缩
+      style: pink
+      url: https://squoosh.app/
+
+    - name: Online Convert Free
+      style: teal
+      url: https://onlineconvertfree.com/zh/
+      
+- categories:
+  - name: 学术研究
+    links:
+    - name: 中文马克思主义文库-毛泽东
+      style: red
+      url: https://www.marxists.org/chinese/maozedong/index.htm
+
+    - name: 毛泽东博览
+      style: red 
+      url: http://www.mzdbl.cn/
+      
+    - name: 中国国家图书馆
+      style: red
+      url: http://www.nlc.cn/
+      
+    - name: 国家哲学社会科学文献中心
+      style: red
+      url: http://www.ncpssd.org/
+
+    - name: 中国知网
+      style: basic
+      url: https://www.cnki.net/
+      
+    - name: Semantic Scholar
+      style: basic
+      icon: graduation cap
+      url: https://www.semanticscholar.org/
+
+    - name: 万方数据
+      style: red
+      url: https://www.wanfangdata.com.cn/index.html
+
+    - name: SCI-HUB.TW(梯)
+      style: basic
+      url: https://ww25.scihub.tw
+
+    - name: 批改网-英语作文练习
+      style: grey
+      url: https://www.pigai.org/index.php
+      
+    - name: 1checker易改
+      style: basic
+      url: http://www.1checker.com/Home/Index
+
+    - name: Hemingway写作提升
+      style: grey
+      url: https://hemingwayapp.com/
+
+    - name: 词都网
+      style: grey
+      url: http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=
+
+    - name: CNKI翻译助手
+      style: basic
+      icon: language
+      url: https://dict.cnki.net/index
+
+    - name: Deepl翻译
+      style: basic
+      icon: language grey
+      url: https://www.deepl.com/translator
+      
+    - name: 畅想之星随书资源数据库
+      style: grey
+      url: http://www.bj.cxstar.cn/bookcd/index/index.do
+
+    - name: 美国之音VOA
+      style: basic
+      icon: brodcast tower
+      url: https://www.51voa.com/
+
+    - name: iData知识检索
+      style: green
+      url: https://www.cn-ki.net/
+
+    - name: 联图云光盘
+      style: green
+      url: http://discx.yuntu.io/
+      
+  - name: 其他书签
+    links:
+    - name: 国家邮政局申诉网
+      style: blue
+      url: https://sswz.spb.gov.cn/
+
+    - name: 国家工信部申诉中心
+      style: blue
+      url: https://yhssglxt.miit.gov.cn/web/
+
+    - name: 国家统计年鉴
+      style: blue
+      url: http://www.stats.gov.cn/tjsj/ndsj/
+
+    - name: 国家法律法规数据库
+      style: red
+      url: https://flk.npc.gov.cn/
+
+    - name: 国务院政策文件库
+      style: red
+      url: 	https://www.gov.cn/zhengce/zhengcewenjianku/
+
+    # - name: 大学管理系统
     #   style: basic
-    #   url: http://bbs.byr.cn/#!article/Talking/5852307
+    #   url: http://219.140.173.211/eams/login.action
+
+    - name: Humanbenchmark
+      style: orange
+      url: https://humanbenchmark.com/
+
+    - name: 小鸡词典
+      style: orange
+      url: https://jikipedia.com/
+     
+    - name: 非酋部落
+      style: basic
+      url: https://tik.9929.us/#/dashboard
+      
+    - name: 16personalities
+      style: teal
+      url: https://www.16personalities.com/
+      
+    - name: Python Download
+      style: brown
+      url: https://www.python.org/downloads/      
+
+    - name: 掌阅读书
+      style: brown
+      icon: book open white
+      url: https://www.ireader.com.cn/
+      
+    - name: 微信读书
+      style: blue
+      icon: book open white
+      url: https://weread.qq.com/
+      
+    - name: 少数派
+      style: basic
+      url: https://sspai.com/
+
+    - name: 联想社区小新专栏
+      style: basic
+      url: https://club.lenovo.com.cn/forum-1172-1.html?filter=dateline&orderby=dateline
+      
+    - name: Time.is
+      style: red
+      url: https://time.is/
+      
+    - name: Tiktok Analyzer
+      style: black
+      icon: play
+      url: https://urlebird.com/
+      
+  - name: 资源导航
+    links:       
+    - name: iMyShare
+      style: blue
+      url: https://imyshare.com/
+      
+    - name: 快搜(虫部落)
+      style: green
+      url: https://search.chongbuluo.com/
+      
+    - name: 天翼小站
+      style: green
+      url: https://yun.hei521.cn/            
+      
+    - name: 学术搜索(虫部落)
+      style: green
+      url: https://scholar.chongbuluo.com/
+
+    - name: 科塔学术
+      style: blue
+      url: https://site.sciping.com/
+      
+    - name: Magi搜索
+      style: black
+      url: https://magi.com/
+      
+    - name: 英语学习导航
+      style: orange
+      url: https://www.up-6.com/      
+    
+    - name: 默沙东诊疗手册
+      style: red
+      url: https://www.msdmanuals.cn/
+      
+    - name: 问答库
+      style: blue
+      url: https://www.asklib.com/
+      
+    - name: 考试酷
+      style: blue
+      url: https://www.examcoo.com/index/ku
+    
+    - name: 丁香园-用药助手
+      style: violet
+      url: http://drugs.dxy.cn/
+      
+    - name: 大数据导航
+      style: basic
+      url: http://hao.199it.com/
+      
+    - name: 国外巴巴网址导航
+      style: basic
+      url: http://www.guowai88.com/default.asp
+      
+    - name: 国外网站推荐
+      style: basic
+      url: https://www.egouz.com/
+      
+    - name: 虫部落
+      style: green
+      url: https://www.chongbuluo.com/
+      
+    - name: AnywhereAnything
+      style: teal
+      url: http://lackar.com/aa/
+
+    - name: 互联网数据资讯网
+      style: basic
+      url: http://www.199it.com/
+
+    - name: 鸠摩文档搜索
+      icon: file word outline
+      style: brown
+      url: https://www.jiumodiary.com/
+
+    - name: 书享家(电子书)
+      style: blue
+      icon: book
+      url: http://shuxiangjia.cn/
+      
+    - name: 北大出版社
+      style: basic
+      icon: university
+      url: https://pup6.yunzhan365.com/
+
+    - name: 全历史
+      style: brown
+      icon: history
+      url: https://www.allhistory.com/
+
+    - name: Python教程
+      style: green
+      url: https://www.runoob.com/python3/python3-tutorial.html
+
+  - name: 在线工具
+    links:
+    - name: 精准云工具
+      style: basic
+      url: https://jingzhunyun.com/
+      
+    - name: 爱资料在线工具
+      style: basic
+      url: https://www.toolnb.com/ 
+      
+    - name: 123工具网
+      style: basic
+      url: https://123apps.com/cn/
+
+    - name: 孟坤工具箱
+      style: grey
+      url: http://tool.mkblog.cn/
+
+    - name: 太美工具网
+      style: blue
+      url: https://tiomg.org/
+      
+    - name: 阅后即焚
+      style: grey
+      url: https://sesme.co/
+
+    - name: YAML在线编辑(校验)器
+      style: basic
+      url: https://www.bejson.com/validators/yaml_editor/
+
+    - name: PastMe,阅后即焚
+      style: blue
+      url: https://p.xkx.me/
+      
+    - name: Typingclub
+      icon: keyboard 
+      style: basic
+      url: https://www.typingclub.com/
+
+    - name: Typing.com
+      icon: keyboard outline
+      style: basic
+      url: https://www.typing.com/
+      
+    - name: icon|Fomantic-ui
+      style: teal
+      url: https://fomantic-ui.com/elements/icon.html#icon-set
+      
+    - name: icon|Font Awesome
+      style: basic
+      icon: flag outline blue
+      url: https://fontawesome.com/v5.15/icons?d=gallery&p=2
+      
+    - name: Access your site
+      style: basic
+      url: https://for.alnk.cn/      
+      
+    - name: 朋友圈转发点赞截图生成器
+      style: basic
+      url: https://akarin.dev/WechatMomentScreenshot/
+      
+    - name: 阿里巴巴矢量图标库
+      style: basic
+      icon: dot circle purple
+      url: https://www.iconfont.cn/collections/index
+      
+    # - name: 
+    #   style: basic
+    #   url:  
+      
+    # - name: 
+    #   style: basic
+    #   url:   
+      
+    # - name: 
+    #   style: basic
+    #   url:  
+      
+    # - name: 
+    #   style: basic
+    #   url:   
+      
+    # - name: 
+    #   style: basic
+    #   url:  
+      
+    # - name: 
+    #   style: basic
+    #   url:   
+      
+    # - name: 
+    #   style: basic
+    #   url:  
+      
+    # - name: 
+    #   style: basic
+    #   url:  
