@@ -2,7 +2,7 @@ google:
   id: UA-100531691-1
 
 matomo:
-  url: https://
+  url: https:///
   domains:
   - ""
   site_id: 1
