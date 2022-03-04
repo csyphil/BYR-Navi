@@ -41,7 +41,7 @@ gem install jekyll bundler
 3. Clone the project from GitHub.
 
 ```sh
-git clone https://github.com/philsilver31925/BYR-Navi.git
+git clone https://github.com/philsilver31925/Navi.git
 ```
 
 4. Change into the project directory.
