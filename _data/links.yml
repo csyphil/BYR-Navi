@@ -1291,7 +1291,7 @@
       icon: flag outline blue
       url: https://fontawesome.com/v5.15/icons?d=gallery&p=2
       
-    - name: 转发点赞截图生成器
+    - name: 转发点赞生成器
       style: basic
       url: https://akarin.dev/WechatMomentScreenshot/
       
