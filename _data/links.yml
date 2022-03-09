@@ -125,6 +125,11 @@
       icon: envelope blue
       style: basic
       url: https://www.outlook.com/
+      
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
 
     - name: Notion
       icon: sticky note yellow 
@@ -150,16 +155,6 @@
       icon: paw blue
       style: basic
       url: https://fanyi.baidu.com/
-      
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: https://caiyunapp.com/map
       
     - name: 百度云盘
       style: basic
