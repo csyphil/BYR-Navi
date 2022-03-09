@@ -1170,10 +1170,6 @@
       style: blue
       url: https://site.sciping.com/
       
-    - name: Magi搜索
-      style: black
-      url: https://magi.com/
-      
     - name: 英语学习导航
       style: orange
       url: https://www.up-6.com/      
@@ -1299,7 +1295,7 @@
       style: basic
       url: https://for.alnk.cn/      
       
-    - name: 朋友圈转发点赞截图生成器
+    - name: 转发点赞截图生成器
       style: basic
       url: https://akarin.dev/WechatMomentScreenshot/
       
