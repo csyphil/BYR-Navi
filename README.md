@@ -53,13 +53,13 @@ cd BYR-Navi
 5. Install required gems in the `Gemfile` using Bundler.
 
 ```sh
-bundle install
+bundle install && bundle add webrick 
 ```
 
 6. Build the site and make it available on a local server.
 
 ```sh
-bundle exec jekyll serve
+bundle exec jekyll serve -H 0.0.0.0 -P 4000 --detach 
 ```
 
 7. Now browse to [http://localhost:4000][localhost-4000].
