@@ -1147,6 +1147,26 @@
       style: black
       icon: play
       url: https://urlebird.com/
+
+    - name: Signal
+      style: basic
+      icon: comment outline blue
+      url: https://signal.org/
+      
+    - name: Session
+      style: black
+      icon: hourglass outline green
+      url: https://getsession.org/
+      
+    - name: Status
+      style: blue
+      icon: comment dollar white
+      url: https://status.im/
+      
+    - name: Element
+      style: teal
+      icon: comment dots outline white
+      url: https://element.io/
       
   - name: 资源导航
     links:       
