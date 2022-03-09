@@ -1170,6 +1170,10 @@
       style: blue
       url: https://site.sciping.com/
       
+    - name: 虫部落
+      style: green
+      url: https://www.chongbuluo.com/
+      
     - name: 英语学习导航
       style: orange
       url: https://www.up-6.com/      
@@ -1193,10 +1197,6 @@
     - name: 大数据导航
       style: basic
       url: http://hao.199it.com/
-      
-    - name: 虫部落
-      style: green
-      url: https://www.chongbuluo.com/
       
     - name: 国外巴巴网址导航
       style: basic
