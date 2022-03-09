@@ -264,10 +264,6 @@
       style: basic
       icon: graduation cap blue
       url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: https://mooc.org/
       
     - name: UMOOCs
       style: basic
@@ -281,10 +277,6 @@
       style: basic
       icon: book open green
       url: https://www.icourse163.org/
-      
-    - name: TED
-      style: red
-      url: https://www.ted.com/      
       
     - name: 网易公开课
       style: basic
