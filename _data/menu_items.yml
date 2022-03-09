@@ -6,12 +6,10 @@
 - name: 个人博客
   icon: wordpress simple
   url: https://blog.philsilver.xyz/
-  active_key: home
  
 - name: Notion
   icon: sticky note outline
   url: https://www.notion.so/zh-cn
-  active_key: home
   
 # - name: 定制化
 #   icon: tools
