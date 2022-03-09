@@ -1014,6 +1014,10 @@
       icon: graduation cap
       url: https://www.semanticscholar.org/
 
+    - name: 词都网
+      style: grey
+      url: http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=
+      
     - name: 万方数据
       style: red
       url: https://www.wanfangdata.com.cn/index.html
@@ -1022,6 +1026,10 @@
       style: basic
       url: https://ww25.scihub.tw
 
+    - name: 联图云光盘
+      style: green
+      url: http://discx.yuntu.io/
+      
     - name: 批改网-英语作文练习
       style: grey
       url: https://www.pigai.org/index.php
@@ -1034,19 +1042,14 @@
       style: grey
       url: https://hemingwayapp.com/
 
-    - name: 词都网
-      style: grey
-      url: http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=
-
     - name: CNKI翻译助手
       style: basic
       icon: language
       url: https://dict.cnki.net/index
-
-    - name: Deepl翻译
-      style: basic
-      icon: language grey
-      url: https://www.deepl.com/translator
+      
+    - name: iData知识检索
+      style: green
+      url: https://www.cn-ki.net/
       
     - name: 畅想之星随书资源数据库
       style: grey
@@ -1057,13 +1060,7 @@
       icon: brodcast tower
       url: https://www.51voa.com/
 
-    - name: iData知识检索
-      style: green
-      url: https://www.cn-ki.net/
 
-    - name: 联图云光盘
-      style: green
-      url: http://discx.yuntu.io/
       
   - name: 其他书签
     links:
