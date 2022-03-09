@@ -1173,7 +1173,11 @@
     - name: 英语学习导航
       style: orange
       url: https://www.up-6.com/      
-    
+
+    - name: 考试酷
+      style: blue
+      url: https://www.examcoo.com/index/ku
+      
     - name: 默沙东诊疗手册
       style: red
       url: https://www.msdmanuals.cn/
@@ -1181,11 +1185,7 @@
     - name: 问答库
       style: blue
       url: https://www.asklib.com/
-      
-    - name: 考试酷
-      style: blue
-      url: https://www.examcoo.com/index/ku
-    
+     
     - name: 丁香园-用药助手
       style: violet
       url: http://drugs.dxy.cn/
@@ -1194,6 +1194,10 @@
       style: basic
       url: http://hao.199it.com/
       
+    - name: 虫部落
+      style: green
+      url: https://www.chongbuluo.com/
+      
     - name: 国外巴巴网址导航
       style: basic
       url: http://www.guowai88.com/default.asp
@@ -1201,10 +1205,6 @@
     - name: 国外网站推荐
       style: basic
       url: https://www.egouz.com/
-      
-    - name: 虫部落
-      style: green
-      url: https://www.chongbuluo.com/
       
     - name: AnywhereAnything
       style: teal
