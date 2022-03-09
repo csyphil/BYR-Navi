@@ -1030,13 +1030,18 @@
       style: green
       url: http://discx.yuntu.io/
       
-    - name: 批改网-英语作文练习
+    - name: 批改网
       style: grey
       url: https://www.pigai.org/index.php
       
     - name: 1checker易改
       style: basic
       url: http://www.1checker.com/Home/Index
+      
+    - name: 美国之音VOA
+      style: basic
+      icon: brodcast tower
+      url: https://www.51voa.com/
 
     - name: Hemingway写作提升
       style: grey
@@ -1054,12 +1059,6 @@
     - name: 畅想之星随书资源数据库
       style: grey
       url: http://www.bj.cxstar.cn/bookcd/index/index.do
-
-    - name: 美国之音VOA
-      style: basic
-      icon: brodcast tower
-      url: https://www.51voa.com/
-
 
       
   - name: 其他书签
