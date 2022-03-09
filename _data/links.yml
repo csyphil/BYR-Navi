@@ -238,20 +238,10 @@
       style: basic
       url: https://www.facebook.com/
 
-    - name: Mail.com
-      icon: envelope grey
-      style: basic
-      url: https://www.mail.com/
-
     - name: 10MinsMail
       icon: envelope grey
       style: basic
       url: https://10minutemail.com/
-
-    - name: Tempinbox
-      icon: envelope grey
-      style: basic
-      url: https://www.tempinbox.com/
 
     - name: ProtonMail
       style: basic
