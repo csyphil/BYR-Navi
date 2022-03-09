@@ -130,11 +130,11 @@
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
-
-    - name: Notion
-      icon: sticky note yellow 
+      
+    - name: DeepL翻译
+      icon: language grey
       style: basic
-      url: https://www.notion.so/
+      url: https://www.deepl.com/translator
       
     - name: 有道翻译
       style: basic
@@ -150,11 +150,6 @@
       icon: language blue
       style: basic
       url: https://translate.google.cn/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
       
     - name: 百度云盘
       style: basic
