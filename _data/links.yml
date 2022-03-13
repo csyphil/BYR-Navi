@@ -537,6 +537,10 @@
       style: green
       icon: tachometer alternate
       url: https://uptime.philsilver.xyz/status
+
+    - name: Flarum
+      style: orange
+      url: https://flarum.philsilver.xyz/
       
     - name: 个人主页
       style: basic
