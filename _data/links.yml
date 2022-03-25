@@ -451,7 +451,7 @@
     - name: 兰空图床
       style: basic
       icon: images outline
-      url: https://image.philsilver.xyz/
+      url: https://img.philsilver.xyz/
       
     - name: Whois查询
       style: blue
