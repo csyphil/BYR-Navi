@@ -471,12 +471,12 @@
       icon: save outline
       url: https://pan.philsilver.xyz/
       
-    - name: ServerStatus
+    - name: Server Status
       style: basic
       icon: heartbeat
       url: https://status.philsilver.xyz/
       
-    - name: UptimeKuma
+    - name: Uptime Kuma
       style: green
       icon: tachometer alternate
       url: https://uptime.philsilver.xyz/status
