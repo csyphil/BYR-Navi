@@ -455,21 +455,7 @@
       
     - name: Whois查询
       style: blue
-      url: https://whois.philsilver.xyz/      
-
-    - name: 独角发卡
-      style: basic
-      icon: shopping bag 
-      url: https://djfaka.philsilver.xyz/
-
-    - name: 风铃发卡
-      style: basic
-      icon: shopping cart 
-      url: https://faka.philsilver.xyz/
-
-    - name: Kamifaka
-      style: basic
-      url: https://kamifaka.philsilver.xyz/
+      url: https://whois.philsilver.xyz/
       
     - name: Discuz!
       style: basic
@@ -484,6 +470,44 @@
       style: basic
       icon: save outline
       url: https://pan.philsilver.xyz/
+      
+    - name: ServerStatus
+      style: basic
+      icon: heartbeat
+      url: https://status.philsilver.xyz/
+      
+    - name: UptimeKuma
+      style: green
+      icon: tachometer alternate
+      url: https://uptime.philsilver.xyz/status
+
+    - name: Flarum
+      style: orange
+      url: https://flarum.philsilver.xyz/
+      
+    - name: 个人主页
+      style: basic
+      icon: yin yang 
+      url: https://philsilver.xyz/
+    
+    - name: PayPal
+      style: blue
+      icon: paypal white
+      url: https://www.paypal.com/c2/home
+
+    - name: 独角发卡
+      style: basic
+      icon: shopping bag 
+      url: https://djfaka.philsilver.xyz/
+
+    - name: 风铃发卡
+      style: basic
+      icon: shopping cart 
+      url: https://faka.philsilver.xyz/
+
+    - name: Kamifaka
+      style: basic
+      url: https://kamifaka.philsilver.xyz/
       
     - name: Aria2NG
       style: basic
@@ -527,30 +551,6 @@
       style: orange
       icon: cloud white
       url: https://dash.cloudflare.com
-
-    - name: ServerStatus
-      style: basic
-      icon: heartbeat
-      url: https://status.philsilver.xyz/
-      
-    - name: UptimeKuma
-      style: green
-      icon: tachometer alternate
-      url: https://uptime.philsilver.xyz/status
-
-    - name: Flarum
-      style: orange
-      url: https://flarum.philsilver.xyz/
-      
-    - name: 个人主页
-      style: basic
-      icon: yin yang 
-      url: https://philsilver.xyz/
-    
-    - name: PayPal
-      style: blue
-      icon: paypal white
-      url: https://www.paypal.com/c2/home
       
 
   - name: 建站及技术服务
