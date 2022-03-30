@@ -474,12 +474,12 @@
     - name: Server Status
       style: basic
       icon: heartbeat
-      url: https://status.philsilver.xyz/status/all
+      url: https://status.philsilver.xyz/
       
     - name: Uptime Kuma
       style: green
       icon: tachometer alternate
-      url: https://uptime.philsilver.xyz/status
+      url: https://uptime.philsilver.xyz/status/all
 
     - name: Flarum
       style: orange
