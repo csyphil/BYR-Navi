@@ -474,7 +474,7 @@
     - name: Server Status
       style: basic
       icon: heartbeat
-      url: https://status.philsilver.xyz/
+      url: https://status.philsilver.xyz/status/all
       
     - name: Uptime Kuma
       style: green
