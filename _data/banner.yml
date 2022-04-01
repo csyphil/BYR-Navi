@@ -9,7 +9,7 @@ message:
 #   link: https://www.baidu.com/
 
 advertisement: # 在message上面，可以与message同时开
-  show: false
+  show: true
   content: 此处显示广告/错误
   detail: 报错中......
   color: black
