@@ -1,5 +1,5 @@
 message:
-  show: false
+  show: true
   hitokoto: true  # 开启后会遮挡content内容
 #   content: 风雨同舟
 #   detail: 河南加油
@@ -9,7 +9,7 @@ message:
 #   link: https://www.baidu.com/
 
 advertisement: # 在message上面，可以与message同时开
-  show: true
+  show: false
   content: 此处显示广告/错误
   detail: 报错中......
   color: black
