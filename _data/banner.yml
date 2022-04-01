@@ -1,12 +1,12 @@
 message:
-  show: true
+  show: false
   hitokoto: true  # 开启后会遮挡content内容
 #   content: 风雨同舟
 #   detail: 河南加油
   color: black   # 必须开启，否则无法显示
 #   icon: swimmer
 #   image: true
-#   link: https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8
+#   link: https://www.baidu.com/
 
 advertisement: # 在message上面，可以与message同时开
   show: false
