@@ -9,7 +9,7 @@ $.getJSON('https://v1.hitokoto.cn', function (data) {
     );
 // }).fail(function () {
 //     $('#hitokoto').attr({
-//         'href': 'https://google.philsilver.xyz',
+//         'href': '//google.philsilver.xyz',
 //         'target': '_blank'
 //     }).html('<i class="lightbulb icon"></i>一言获取失败...<div class="detail">错误</div>');
 });
