@@ -1,5 +1,5 @@
 message:
-  show: true
+  show: false
   hitokoto: true  # 开启后会遮挡content内容
 #   content: 风雨同舟
 #   detail: 河南加油
