@@ -1,12 +1,12 @@
 message:
   show: true
-  hitokoto: true  # 开启后会遮挡content内容
-#   content: 风雨同舟
-#   detail: 河南加油
+  hitokoto: false  # 开启后会遮挡content内容
+  content: 往事如烟
+  detail: 须弥皆散
   color: black   # 必须开启，否则无法显示
-#   icon: swimmer
-#   image: true
-#   link: https://www.baidu.com/
+  icon: swimmer
+  image: true
+  link: https://google.philsilver.xyz
 
 advertisement: # 在message上面，可以与message同时开
   show: false
