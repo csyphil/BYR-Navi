@@ -4,7 +4,7 @@ message:
   content: 往事如烟
   detail: 须弥皆散
   color: black   # 必须开启，否则无法显示
-  icon: swimmer
+  icon: ellipsis horizontal
   image: true
   link: https://google.philsilver.xyz
 
