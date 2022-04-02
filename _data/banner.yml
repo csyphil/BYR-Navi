@@ -1,11 +1,11 @@
 message:
   show: true
-  hitokoto: false  # 开启后会遮挡content内容
+  hitokoto: true  # 开启后会遮挡content内容
   content: 往事如烟
   detail: 须弥皆散
   color: black   # 必须开启，否则无法显示
   icon: ellipsis horizontal
-  image: true
+  image: false
   link: https://google.philsilver.xyz
 
 advertisement: # 在message上面，可以与message同时开
