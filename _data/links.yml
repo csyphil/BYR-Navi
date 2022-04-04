@@ -686,7 +686,6 @@
       
     - name: 笨猫博客
       style: basic
-      icon: paw orange
       url: https://www.nbmao.com/
       
     - name: 老D博客
