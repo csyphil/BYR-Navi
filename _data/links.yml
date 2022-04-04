@@ -532,7 +532,7 @@
       url: https://dash.cloudflare.com
       
 
-  - name: 建站及技术服务
+  - name: 技术服务
     links:
     - name: 全球主机交流论坛(LOC)
       style: purple
@@ -729,7 +729,7 @@
       url: https://www.kejiwanjia.com/
       
       
-  - name: 资源获取网站
+  - name: 资源网站
     links:
     - name: <span class="ui medium black text">果核剥壳
       style: yellow
@@ -873,7 +873,7 @@
       style: red
       url: https://convertio.co/zh/
 
-  - name: 文件图片处理
+  - name: 文件处理
     links:
     - name: TinyPNG
       style: grey
