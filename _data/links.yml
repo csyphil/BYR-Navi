@@ -494,6 +494,7 @@
       
     - name: Aria2NG
       style: basic
+      icon: download
       url: https://aria.philsilver.xyz/
       
     - name: Netcup
@@ -514,6 +515,11 @@
       style: blue
       icon: database white
       url: https://cloud.oracle.com/?region=ap-tokyo-1
+      
+    - name: Netcup status
+      style: blue
+      icon: wave square white
+      url: https://www.netcup-status.de/
       
     - name: 腾讯云
       style: blue
@@ -722,10 +728,6 @@
       icon: lightbulb outline yellow
       url: https://www.kejiwanjia.com/
       
-    - name: Netcup status
-      style: blue
-      icon: wave square white
-      url: https://www.netcup-status.de/
       
   - name: 资源获取网站
     links:
