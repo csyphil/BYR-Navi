@@ -664,10 +664,6 @@
       style: basic
       url: http://www.vpsno.com/
 
-    - name: Vultr教程整理
-      style: basic
-      url: https://www.vultryhw.cn/vultr-all-guides/
-
     - name: 老左笔记
       style: basic
       url: https://www.laozuo.org/hosting
@@ -676,13 +672,9 @@
       style: basic
       url: https://www.xinshouzhanzhang.com/
 
-    - name: 希儿博客
-      style: pink
-      url: https://fenhao.me/
-
     - name: 奇他博客
       style: blue
-      url: https://qitablog.com/
+      url: https://bbs.zhiqan.com/
 
     - name: 极客公园
       style: black
@@ -703,7 +695,7 @@
       
     - name: 咔格咘
       style: basic
-      url: https://www.vwmwv.cn/
+      url: https://blog.170601.xyz/
       
     - name: 墨涩网
       style: basic
