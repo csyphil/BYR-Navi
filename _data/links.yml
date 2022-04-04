@@ -435,9 +435,9 @@
       style: blue
       url: https://adzhp.cn/mian-fei-shi-pin.html
       
-    - name: 懒人资源(聚合)
-      style: grey
-      url: http://lazymovie.me/
+    - name: 混边影视
+      style: basic
+      url: https://hbys80.com/
       
 
 - categories:
@@ -743,6 +743,10 @@
       style: basic
       icon: gamepad grey
       url: https://www.epicgames.com/store/zh-CN/
+
+    - name: 懒人资源(聚合)
+      style: grey
+      url: http://lazymovie.me/
       
     - name: 鹏少资源网
       style: black
