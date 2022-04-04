@@ -467,6 +467,11 @@
       icon: save outline
       url: https://pan.philsilver.xyz/
       
+    - name: 导航
+      style: basic
+      icon: compass 
+      url: https://philsilver.cf/    
+      
     - name: Server Status
       style: basic
       icon: heartbeat
@@ -500,11 +505,6 @@
       style: basic
       url: https://www.customercontrolpanel.de/
       
-    - name: Contabo
-      style: basic
-      icon: server
-      url: https://contabo.com/en/vps/
-      
     - name: Vultr
       style: blue
       icon: server white
@@ -519,11 +519,6 @@
       style: blue
       icon: server white
       url: https://console.cloud.tencent.com/lighthouse/instance/index
-
-    - name: 导航
-      style: basic
-      icon: compass 
-      url: https://philsilver.cf/    
 
     - name: Cloudflare
       style: orange
