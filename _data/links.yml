@@ -710,6 +710,19 @@
       icon: lightbulb outline yellow
       url: https://www.kejiwanjia.com/
       
+    - name: 笑花落Cimen's
+      style: basic
+      icon: tint blue
+      url: https://cimen.club/
+      
+    - name: 周先生Mr.Chou
+      style: blue
+      url: https://mrchou.com/
+    
+    - name: 圈外网
+      style: blue
+      url: http://www.quanwai.wang/
+      
       
   - name: 资源网站
     links:
@@ -851,10 +864,10 @@
       icon: image outline
       url: https://www.superbed.cn/
       
-    - name: 图床-BeJSON.com
+    - name: 办公笔记
       style: basic
-      icon: image outline
-      url: https://www.bejson.com/ui/tuchuang/
+      icon: mail bulk
+      url: https://www.office8045.com/
       
     - name: Office-Converter
       style: basic
