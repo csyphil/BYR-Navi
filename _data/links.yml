@@ -634,7 +634,7 @@
       icon: project diagram blue
       url: https://www.boce.com/
       
-  - name: 技术博客
+  - name: 站长博客
     links:
     - name: <span class="ui medium black text">大鸟博客
       style: yellow
@@ -705,10 +705,6 @@
       style: basic
       url: https://www.vwmwv.cn/
       
-    - name: <span class="ui medium black text">资源否
-      style: yellow
-      url: https://www.zyfou.com/
-      
     - name: 墨涩网
       style: basic
       url: https://www.sunweihu.com/
@@ -717,11 +713,6 @@
       style: basic
       icon: mountain green
       url: https://hostloc.1234234.xyz/#/
-      
-    - name: 仙人小站
-      style: basic 
-      icon: grin squint tears outline
-      url: https://www.wrnxr.cn/
       
     - name: 科技玩家
       style: basic
@@ -788,6 +779,15 @@
     - name: Nvidia驱动下载
       style: green
       url: https://www.nvidia.cn/Download/index.aspx?lang=cn
+      
+    - name: <span class="ui medium black text">资源否
+      style: yellow
+      url: https://www.zyfou.com/
+      
+    - name: 仙人小站
+      style: basic 
+      icon: grin squint tears outline
+      url: https://www.wrnxr.cn/
 
 - categories:
   - name: 办公网站
