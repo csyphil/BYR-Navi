@@ -456,10 +456,6 @@
     - name: Whois查询
       style: blue
       url: https://whois.philsilver.xyz/
-      
-    - name: Discuz!
-      style: basic
-      url: https://discuz.philsilver.xyz/
 
     - name: 可道云盘
       style: blue
@@ -480,10 +476,6 @@
       style: green
       icon: tachometer alternate
       url: https://uptime.philsilver.xyz/status/all
-
-    - name: Flarum
-      style: orange
-      url: https://flarum.philsilver.xyz/
       
     - name: 个人主页
       style: basic
@@ -494,20 +486,6 @@
       style: blue
       icon: paypal white
       url: https://www.paypal.com/c2/home
-
-    - name: 独角发卡
-      style: basic
-      icon: shopping bag 
-      url: https://djfaka.philsilver.xyz/
-
-    - name: 风铃发卡
-      style: basic
-      icon: shopping cart 
-      url: https://faka.philsilver.xyz/
-
-    - name: Kamifaka
-      style: basic
-      url: https://kamifaka.philsilver.xyz/
       
     - name: Aria2NG
       style: basic
