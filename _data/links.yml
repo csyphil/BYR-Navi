@@ -793,7 +793,7 @@
 
     - name: PPT资源导航
       style: blue
-      url: https://www.hippter.com/
+      url: http://www.hippter.com/
 
     - name: 优设导航
       style: basic
