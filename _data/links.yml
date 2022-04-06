@@ -95,11 +95,11 @@
       icon: train red
       style: basic
       url: https://www.12306.cn/
-
-    - name: 快递查询
-      icon: truck olive
+      
+    - name: GitHub
+      icon: github black
       style: basic
-      url: https://www.kuaidi100.com/
+      url: https://github.com/
 
     - name: QQ邮箱
       icon: qq black
@@ -208,16 +208,6 @@
       style: basic
       url: https://www.instagram.com/
       
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-      
     - name: 腾讯QQ
       icon: qq blue
       style: basic
@@ -227,16 +217,26 @@
       icon: weixin green
       style: basic
       url: https://weixin.qq.com/
+
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+      
+    - name: Facebook
+      icon: facebook f blue
+      style: basic
+      url: https://www.facebook.com/
       
     - name: Quora
       icon: quora red
       style: basic
       url: https://www.quora.com/
-
-    - name: Facebook
-      icon: facebook f blue
+      
+    - name: Reddit
+      icon: reddit orange
       style: basic
-      url: https://www.facebook.com/
+      url: https://www.reddit.com/
 
     - name: 10MinsMail
       icon: envelope grey
