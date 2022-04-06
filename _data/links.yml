@@ -716,9 +716,15 @@
       url: https://cimen.club/
       
     - name: 周先生Mr.Chou
-      style: blue
+      style: basic
+      icon: compact disc blue
       url: https://mrchou.com/
     
+    - name: 昼白博客
+      style: basic
+      icon: earlybirds black
+      url: https://www.zhoubaiwl.club/
+      
     - name: 圈外网
       style: blue
       url: http://www.quanwai.wang/
