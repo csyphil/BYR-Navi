@@ -391,10 +391,6 @@
       style: blue
       url: http://wanwansub.com/node/139
 
-    - name: 猪猪
-      style: purple
-      url: http://www.zzrbl.com/
-
     - name: TNH
       style: basic
       url: https://www.tokyonothot.com/
@@ -407,6 +403,11 @@
       style: pink
       url: http://www.hysub.net/
 
+
+    - name: 好片网
+      style: basic
+      url: https://www.cnwml.com/
+      
     - name: 美剧天堂
       style: blue
       url: https://www.meijutt.tv/
@@ -414,10 +415,6 @@
     - name: 电影1905
       style: basic
       url: https://www.1905.com/
-
-    - name: 好片网
-      style: basic
-      url: https://www.cnwml.com/
       
     - name: 久久影视网
       style: green
