@@ -414,6 +414,10 @@
       style: basic
       url: https://www.1905.com/
       
+    - name: 2BTV
+      style: basic
+      url: https://www.2btv.eu/      
+      
     - name: 久久影视网
       style: green
       url: https://www.jiujiukanpian.com/
@@ -421,10 +425,6 @@
     - name: 555电影
       style: basic
       url: https://www.555dy.cc/
-      
-    - name: 2BTV
-      style: basic
-      url: https://www.2btv.eu/      
 
     - name: 爱达杂货铺
       style: blue
