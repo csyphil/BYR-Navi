@@ -482,6 +482,11 @@
       icon: tachometer alternate
       url: https://uptime.philsilver.xyz/status/all
       
+    - name: Aria2NG
+      style: basic
+      icon: download
+      url: https://aria.philsilver.xyz/
+      
     - name: 个人主页
       style: basic
       icon: yin yang 
@@ -491,11 +496,6 @@
       style: blue
       icon: paypal white
       url: https://www.paypal.com/c2/home
-      
-    - name: Aria2NG
-      style: basic
-      icon: download
-      url: https://aria.philsilver.xyz/
       
     - name: Netcup
       style: teal
