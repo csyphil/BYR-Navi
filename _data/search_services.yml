@@ -314,7 +314,7 @@
     style: black
     show: false
 
-- id: locsearch
+- id: loc
   name: 全球主机论坛
   url: https://hostloc.com/search.php?mod=forum&srchtxt={query}&searchsubmit=yes
   shortcut:
@@ -338,11 +338,19 @@
    style: black
    show: true
    
-- id: blog
+- id: yyxl
   name: 夜雨夕岚
   url: https://blog.philsilver.xyz/?s={query}
   shortcut:
     icon: blog blue inverted
     style: black
     show: true
- 
+    
+- id: whois
+  name: Whois
+  url: https://whois.philsilver.xyz/{query}
+  shortcut:
+    icon: search blue inverted
+    style: black
+    show: true
+    
