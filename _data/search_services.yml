@@ -261,9 +261,9 @@
   shortcut:
     icon: closed captioning blue inverted
     style: black
-    show: false
+    show: true
 
-- id: painku
+- id: pianku
   name: 片库
   url: https://mypianku.net/s/{query}.html
   transcode:
@@ -272,7 +272,7 @@
   shortcut:
     icon: film blue inverted
     style: black
-    show: false
+    show: true
 
 - id: yyetss
   name: 人人影视开源
@@ -280,7 +280,7 @@
   shortcut:
     icon: film blue inverted
     style: black
-    show: false
+    show: true
 
 - id: dalipan
   name: 大力盘
@@ -288,7 +288,7 @@
   shortcut:
     icon: cloud download alternate orange inverted
     style: black
-    show: false
+    show: true
 
 - id: 58wangpan
   name: 58网盘
@@ -296,7 +296,7 @@
   shortcut:
     icon: cloud download alternate green inverted
     style: black
-    show: false
+    show: true
 
 - id: comicat
   name: 漫猫
@@ -304,7 +304,7 @@
   shortcut:
     icon: magnet green inverted
     style: black
-    show: false
+    show: true
 
 - id: lime
   name: Lime Torrents
@@ -312,7 +312,7 @@
   shortcut:
     icon: lemon green inverted
     style: black
-    show: false
+    show: true
 
 - id: loc
   name: 全球主机论坛
