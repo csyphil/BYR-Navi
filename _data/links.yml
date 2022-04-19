@@ -793,6 +793,11 @@
       style: basic 
       icon: grin squint tears outline
       url: https://www.wrnxr.cn/
+      
+    - name: Censys Search
+      style: basic
+      icon: notched circle loading
+      url: https://search.censys.io/
 
 - categories:
   - name: 办公网站
