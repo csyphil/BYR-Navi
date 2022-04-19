@@ -796,7 +796,7 @@
       
     - name: Censys Search
       style: basic
-      icon: notched circle loading
+      icon: notched circle loading orange
       url: https://search.censys.io/
 
 - categories:
