@@ -20,10 +20,12 @@ contact: contact[at]philsilver[dot]xyz
 
 # image: /images/logo.png
 # logo: /images/logo.png
+# logo_dark: /images/logo-dark.svg
+# logo_white: /images/logo-white.svg
 image: https://img.philsilver.xyz/uploads/2022/04/01/6246c41067839.png
 logo: https://img.philsilver.xyz/uploads/2022/04/01/6246c41067839.png
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
+logo_dark: https://img.philsilver.xyz/uploads/2022/04/01/6246c431be777.png
+logo_white: https://img.philsilver.xyz/uploads/2022/04/01/6246c44d67899.png
 
 plugins:
 - jekyll-seo-tag
