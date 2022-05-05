@@ -458,10 +458,10 @@
       icon: save outline
       url: https://pan.philsilver.xyz/
       
-    - name: 导航
-      style: basic
-      icon: compass 
-      url: https://philsilver.cf/    
+#     - name: 导航
+#       style: basic
+#       icon: compass 
+#       url: https://philsilver.cf/    
       
     - name: Server Status
       style: basic
