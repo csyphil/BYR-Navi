@@ -263,6 +263,11 @@
       style: basic
       url: https://www.whatsapp.com/
       
+    - name: Pinterest
+      icon: pinterest red
+      style: basic
+      url: https://www.pinterest.com/
+      
     - name: 10MinsMail
       icon: envelope grey
       style: basic
