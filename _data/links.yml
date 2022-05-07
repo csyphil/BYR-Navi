@@ -244,7 +244,7 @@
       url: https://gettr.com/
       
     - name: Castbox
-      icon: podcast 
+      icon: podcast black
       sytle: basic
       url: https://castbox.fm/home?country=cn
       
