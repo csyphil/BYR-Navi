@@ -240,10 +240,12 @@
       
     - name: Castbox
       icon: podcast orange
+      style: basic
       url: https://castbox.fm/home?country=cn
       
     - name: Clubhouse
       icon: microphone alternate blue
+      style: basic
       url: https://www.clubhouse.com/
     
     - name: GETTR
@@ -253,7 +255,7 @@
       
     - name: Tumblr
       icon: tumblr square black
-      sytle: black
+      style: basic
       url: https://www.tumblr.com/
       
     - name: WhatsApp
