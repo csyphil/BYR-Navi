@@ -240,12 +240,10 @@
       
     - name: Castbox
       icon: podcast orange
-      sytle: black
       url: https://castbox.fm/home?country=cn
       
     - name: Clubhouse
       icon: microphone alternate blue
-      style: basic
       url: https://www.clubhouse.com/
     
     - name: GETTR
