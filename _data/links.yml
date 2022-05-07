@@ -255,7 +255,7 @@
       
     - name: Tumblr
       icon: tumblr 
-      sytle: basic
+      sytle: white
       url: https://www.tumblr.com/
       
     - name: 10MinsMail
