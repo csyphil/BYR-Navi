@@ -254,8 +254,8 @@
       url: https://gettr.com/
       
     - name: Tumblr
-      icon: tumblr 
-      sytle: white
+      icon: tumblr black
+      sytle: basic
       url: https://www.tumblr.com/
       
     - name: 10MinsMail
