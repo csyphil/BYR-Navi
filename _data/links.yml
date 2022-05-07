@@ -249,7 +249,7 @@
       url: https://castbox.fm/home?country=cn
       
     - name: Clubhouse
-      icon: headphones alternate yellow
+      icon: microphone alternate
       style: basic
       url: https://www.clubhouse.com/
       
