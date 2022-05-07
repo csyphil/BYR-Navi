@@ -228,16 +228,6 @@
       style: basic
       url: https://www.facebook.com/
       
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-      
-    - name: Reddit
-      icon: reddit orange
-      style: basic
-      url: https://www.reddit.com/
-      
     - name: Castbox
       icon: podcast orange
       style: basic
@@ -247,7 +237,17 @@
       icon: microphone alternate blue
       style: basic
       url: https://www.clubhouse.com/
-    
+      
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: https://www.quora.com/
+      
+    - name: Reddit
+      icon: reddit orange
+      style: basic
+      url: https://www.reddit.com/
+
     - name: GETTR
       icon: feather red
       style: basic
