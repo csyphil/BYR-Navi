@@ -254,12 +254,12 @@
       url: https://gettr.com/
       
     - name: Tumblr
-      icon: tumblr square black
+      icon: tumblr black
       style: basic
       url: https://www.tumblr.com/
       
     - name: WhatsApp
-      icon: whatsapp square green
+      icon: whatsapp green
       style: basic
       url: https://www.whatsapp.com/
       
