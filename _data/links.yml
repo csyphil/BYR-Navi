@@ -240,7 +240,7 @@
       
     - name: Castbox
       icon: podcast orange
-      sytle: basic
+      sytle: black
       url: https://castbox.fm/home?country=cn
       
     - name: Clubhouse
@@ -255,7 +255,7 @@
       
     - name: Tumblr
       icon: tumblr square black
-      sytle: basic
+      sytle: black
       url: https://www.tumblr.com/
       
     - name: WhatsApp
