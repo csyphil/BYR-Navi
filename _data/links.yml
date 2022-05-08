@@ -105,11 +105,6 @@
       icon: qq black
       style: basic
       url: https://mail.qq.com/
-
-    - name: ProtonMail
-      style: basic
-      icon: envelope grey
-      url: https://protonmail.com/zh-Hans/
       
     - name: Gmail
       icon: google red
@@ -130,6 +125,11 @@
       icon: envelope blue
       style: basic
       url: https://www.outlook.com/
+
+    - name: ProtonMail
+      style: basic
+      icon: envelope grey
+      url: https://protonmail.com/zh-Hans/
       
     - name: 维基百科
       icon: wikipedia w black
