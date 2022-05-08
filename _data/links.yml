@@ -228,10 +228,10 @@
       style: basic
       url: https://www.facebook.com/
       
-    - name: Castbox
-      icon: podcast orange
+    - name: Discord
+      icon: dicord violet
       style: basic
-      url: https://castbox.fm/home?country=cn
+      url: https://discord.com/
       
     - name: Clubhouse
       icon: microphone alternate blue
@@ -272,11 +272,6 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
-      
-    - name: Pinterest
-      icon: pinterest red
-      style: basic
-      url: https://www.pinterest.com/
       
 
   - name: 学习
@@ -360,7 +355,7 @@
       url: https://www.y-english.org/
 
 
-  - name: 影视娱乐
+  - name: 影音娱乐
     links:
     - name: Youtube
       icon: youtube red
@@ -371,6 +366,16 @@
       icon: film red
       style: basic
       url: https://www.netflix.com/
+
+    - name: Castbox
+      icon: podcast orange
+      style: basic
+      url: https://castbox.fm/home?country=cn
+
+    - name: Pinterest
+      icon: pinterest red
+      style: basic
+      url: https://www.pinterest.com/
       
     - name: 优酷
       style: basic
