@@ -49,11 +49,6 @@
     - name: 小米有品
       style: brown
       url: https://xiaomiyoupin.com/
-
-    - name: 锤子
-      style: basic
-      icon: hammer red
-      url: https://www.smartisan.com/
       
     - name: 当当
       style: basic
