@@ -218,10 +218,10 @@
       style: basic
       url: https://weixin.qq.com/
 
-    - name: LinkedIn
-      icon: linkedin blue
+    - name: WhatsApp
+      icon: whatsapp green
       style: basic
-      url: https://www.linkedin.com/
+      url: https://www.whatsapp.com/
       
     - name: Facebook
       icon: facebook f blue
@@ -257,11 +257,11 @@
       icon: tumblr black
       style: basic
       url: https://www.tumblr.com/
-      
-    - name: WhatsApp
-      icon: whatsapp green
+
+    - name: LinkedIn
+      icon: linkedin blue
       style: basic
-      url: https://www.whatsapp.com/
+      url: https://www.linkedin.com/
       
     - name: Pinterest
       icon: pinterest red
