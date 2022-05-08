@@ -264,8 +264,8 @@
       url: https://www.linkedin.com/
 
     - name: 腾讯会议
-      icon: video
-      style: blue
+      icon: video blue
+      style: basic
       url: https://meeting.tencent.com/
       
     - name: Zoom
