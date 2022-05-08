@@ -258,6 +258,16 @@
       style: basic
       url: https://www.tumblr.com/
 
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+
+    - name: 腾讯会议
+      icon: video
+      style: blue
+      url: https://meeting.tencent.com/
+      
     - name: Zoom
       icon: video blue
       style: basic
@@ -267,11 +277,6 @@
       icon: video blue
       style: basic
       url: https://duo.google.com/
-      
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
       
 
   - name: 学习
