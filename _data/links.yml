@@ -283,7 +283,7 @@
       
     - name: UMOOCs
       style: basic
-      icon: chalkboad blue
+      icon: chalkboard blue
       url: https://moocs.unipus.cn/
 
     - name: MOOC中国
