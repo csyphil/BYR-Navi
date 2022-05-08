@@ -259,12 +259,12 @@
       url: https://www.tumblr.com/
 
     - name: Zoom
-      icon: bordered inverted blue video
+      icon: video blue
       style: basic
       url: https://zoom.us/
 
     - name: Google Duo
-      icon: circular inverted blue video
+      icon: video blue
       style: basic
       url: https://duo.google.com/
       
