@@ -258,6 +258,16 @@
       style: basic
       url: https://www.tumblr.com/
 
+    - name: Zoom
+      icon: bordered inverted blue video
+      style: basic
+      url: https://zoom.us/
+
+    - name: Google Duo
+      icon: circular inverted blue video
+      style: basic
+      url: https://duo.google.com/
+      
     - name: LinkedIn
       icon: linkedin blue
       style: basic
