@@ -105,6 +105,11 @@
       icon: qq black
       style: basic
       url: https://mail.qq.com/
+
+    - name: ProtonMail
+      style: basic
+      icon: envelope grey
+      url: https://protonmail.com/zh-Hans/
       
     - name: Gmail
       icon: google red
@@ -268,25 +273,6 @@
       style: basic
       url: https://www.pinterest.com/
       
-    - name: 10MinsMail
-      icon: envelope grey
-      style: basic
-      url: https://10minutemail.com/
-
-    - name: ProtonMail
-      style: basic
-      icon: envelope grey
-      url: https://protonmail.com/zh-Hans/
-      
-    - name: rootsh
-      style: basic
-      icon: envelope grey
-      url: https://rootsh.com/   
-      
-    - name: mail.td
-      style: basic
-      icon: envelope grey
-      url: https://mail.td/zh
 
   - name: 学习
     links:
@@ -1306,4 +1292,18 @@
       style: basic
       icon: dot circle purple
       url: https://www.iconfont.cn/collections/index
+
+    - name: 10MinsMail
+      icon: envelope grey
+      style: basic
+      url: https://10minutemail.com/
       
+    - name: rootsh
+      style: basic
+      icon: envelope grey
+      url: https://rootsh.com/   
+      
+    - name: mail.td
+      style: basic
+      icon: envelope grey
+      url: https://mail.td/zh
