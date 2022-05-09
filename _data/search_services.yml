@@ -255,6 +255,14 @@
     style: black
     show: true
 
+- id: ytmusic
+  name: YouTube Music
+  url: https://music.youtube.com/search?q={query}
+  shortcut:
+    icon: play circle red
+    style: black
+    show: true
+    
 - id: zimuku
   name: 字幕库
   url: http://zmk.pw/search?q={query}
