@@ -259,8 +259,8 @@
   name: YouTube Music
   url: https://music.youtube.com/search?q={query}
   shortcut:
-    icon: play circle outline red inverted
-    style: black
+    icon: play circle outline inverted
+    style: red
     show: true
     
 - id: zimuku
