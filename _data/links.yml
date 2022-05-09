@@ -1079,10 +1079,6 @@
       style: blue
       url: https://yhssglxt.miit.gov.cn/web/
 
-    - name: 国家统计年鉴
-      style: blue
-      url: http://www.stats.gov.cn/tjsj/ndsj/
-
     - name: 国家法律法规数据库
       style: red
       url: https://flk.npc.gov.cn/
@@ -1091,6 +1087,10 @@
       style: red
       url: 	https://www.gov.cn/zhengce/zhengcewenjianku/
 
+    - name: 国家统计年鉴
+      style: blue
+      url: http://www.stats.gov.cn/tjsj/ndsj/
+      
     # - name: 大学管理系统
     #   style: basic
     #   url: http://219.140.173.211/eams/login.action
