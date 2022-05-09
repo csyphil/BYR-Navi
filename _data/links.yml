@@ -359,6 +359,16 @@
       style: black
       url: https://www.y-english.org/
 
+    - name: 掌阅读书
+      style: brown
+      icon: book open white
+      url: https://www.ireader.com.cn/
+      
+    - name: 微信读书
+      style: blue
+      icon: book open white
+      url: https://weread.qq.com/
+      
 
   - name: 影音娱乐
     links:
@@ -768,6 +778,10 @@
       style: grey
       url: https://www.423down.com/
 
+    - name: 少数派
+      style: basic
+      url: https://sspai.com/
+      
     - name: Steam
       style: basic
       icon: steam blue 
@@ -1114,20 +1128,6 @@
     - name: Python Download
       style: brown
       url: https://www.python.org/downloads/      
-
-    - name: 掌阅读书
-      style: brown
-      icon: book open white
-      url: https://www.ireader.com.cn/
-      
-    - name: 微信读书
-      style: blue
-      icon: book open white
-      url: https://weread.qq.com/
-      
-    - name: 少数派
-      style: basic
-      url: https://sspai.com/
 
     - name: 联想社区小新专栏
       style: basic
