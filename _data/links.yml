@@ -647,10 +647,10 @@
       icon: angle double right green
       url: https://www.ipaddress.com/
       
-    - name: Telegra.ph
+    - name: 我爱卡
       style: basic
-      icon: edit outline
-      url: https://telegra.ph/
+      icon: credit card outline orange
+      url: https://bbs.51credit.com/
       
     - name: 拔测
       style: basic
@@ -751,6 +751,11 @@
     - name: 圈外网
       style: blue
       url: http://www.quanwai.wang/
+
+    - name: Telegra.ph
+      style: basic
+      icon: edit outline
+      url: https://telegra.ph/
       
       
   - name: 资源网站
