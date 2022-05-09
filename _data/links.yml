@@ -360,13 +360,13 @@
       url: https://www.y-english.org/
 
     - name: 掌阅读书
-      style: brown
-      icon: book open white
+      style: basic
+      icon: book open orange
       url: https://www.ireader.com.cn/
       
     - name: 微信读书
-      style: blue
-      icon: book open white
+      style: basic
+      icon: book open blue
       url: https://weread.qq.com/
       
 
