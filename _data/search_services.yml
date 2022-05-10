@@ -82,8 +82,8 @@
   name: 知乎
   url: https://zhihu.com/search?q={query}
   shortcut:
-    icon: zhihu blue inverted
-    style: black
+    icon: zhihu inverted
+    style: blue
     show: true
 
 - id: douban
