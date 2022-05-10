@@ -82,8 +82,8 @@
   name: 知乎
   url: https://zhihu.com/search?q={query}
   shortcut:
-    icon: zhihu inverted
-    style: blue
+    icon: zhihu blue inverted
+    style: black
     show: true
 
 - id: douban
@@ -251,16 +251,16 @@
   name: YouTube
   url: https://youtube.com/results?search_query={query}
   shortcut:
-    icon: youtube inverted
-    style: red
+    icon: youtube red inverted
+    style: black
     show: true
 
 - id: ytmusic
   name: YouTube Music
   url: https://music.youtube.com/search?q={query}
   shortcut:
-    icon: play circle outline inverted
-    style: red
+    icon: play circle outline red inverted
+    style: black
     show: true
     
 - id: zimuku
