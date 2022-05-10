@@ -572,6 +572,11 @@
       icon: server white
       url: https://hostloc.com/forum-45-1.html
 
+    - name: 我爱卡
+      style: basic
+      icon: credit card outline orange
+      url: https://bbs.51credit.com/
+      
     - name: IT之家
       style: red
       icon: laptop white
@@ -656,12 +661,7 @@
       style: basic
       icon: angle double right green
       url: https://www.ipaddress.com/
-      
-    - name: 我爱卡
-      style: basic
-      icon: credit card outline orange
-      url: https://bbs.51credit.com/
-      
+
     - name: 拔测
       style: basic
       icon: project diagram blue
