@@ -577,11 +577,6 @@
       icon: credit card outline orange
       url: https://bbs.51credit.com/
       
-    - name: IT之家
-      style: red
-      icon: laptop white
-      url: https://www.ithome.com/
-      
     - name: 卡饭网
       style: basic
       url: https://www.kafan.cn/
@@ -633,6 +628,11 @@
     - name: Greasy Fork 脚本
       style: black
       url: https://greasyfork.org/zh-CN
+
+    - name: IT之家
+      style: red
+      icon: laptop white
+      url: https://www.ithome.com/
       
     - name: 在线扒站
       style: basic
