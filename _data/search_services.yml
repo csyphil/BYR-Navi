@@ -251,8 +251,8 @@
   name: YouTube
   url: https://youtube.com/results?search_query={query}
   shortcut:
-    icon: youtube red inverted
-    style: black
+    icon: play inverted
+    style: red
     show: true
 
 - id: ytmusic
