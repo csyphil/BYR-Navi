@@ -1,5 +1,31 @@
-- categories:          
-- name: 购物
+- categories:
+  - name: 招聘
+    links:
+    - name: BOSS直聘
+      style: teal
+      url: https://www.zhipin.com/shenzhen/
+    
+    - name: 前程无忧
+      style: orange
+      url: https://www.51job.com/shenzhen/
+
+    - name: 智联招聘
+      style: blue
+      url: https://www.zhaopin.com/
+
+    - name: 猎聘
+      style: orange
+      url: https://www.liepin.com/city-sz/
+
+    - name: 拉勾招聘
+      style: green
+      url: https://www.lagou.com/shenzhen/
+
+    - name: 脉脉
+      style: blue
+      url: https://maimai.cn/
+- categories:
+  - name: 购物
     links:
     - name: 淘宝
       style: orange
