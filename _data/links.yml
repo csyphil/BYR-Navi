@@ -1354,3 +1354,63 @@
       style: basic
       icon: envelope grey
       url: https://mail.td/zh
+      
+      
+- catagories:
+  - name: 信用理财
+    links:
+    - name: 支付宝
+      style: basic
+      icon: alipay blue
+      url: https://www.alipay.com/
+      
+    - name: 中信银行
+      style: basic
+      url: https://creditcard.ecitic.com/
+      
+    - name: 广发银行
+      style: basic
+      url: http://card.cgbchina.com.cn/
+      
+    - name: 招商银行
+      style: basic
+      url: https://www.cmbchina.com/
+      
+    - name: 浦发银行
+      style: basic
+      url: https://ccc.spdb.com.cn/
+      
+    - name: 平安银行
+      style: basic
+      url: http://creditcard.pingan.com/
+    
+    - name: 交通银行
+      style: basic
+      url: https://creditcard.bankcomm.com/
+      
+    - name: 上海银行
+      style: basic
+      url: https://www.bosc.cn/zh/
+      
+    - name: 建设银行
+      style: basic
+      url: http://www.ccb.com/cn/home/indexv3.html
+      
+    - name: 工商银行
+      style: basic
+      url: http://www.icbc.com.cn/icbc/
+      
+    - name: Visa
+      style: basic
+      icon: cc visa
+      url: https://www.visa.cn/
+      
+    - name: MasterCard
+      style: basic
+      icon: cc mastercard
+      url: https://www.mastercard.com.cn/zh-cn.html
+      
+    - name: American Express
+      style: basic
+      icon: cc amex
+      url: https://www.americanexpress.com.cn/
