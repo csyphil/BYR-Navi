@@ -1350,7 +1350,7 @@
       icon: envelope grey
       url: https://mail.td/zh
       
-- catagories:
+- categories:
   - name: 信用理财
     links:
     - name: 支付宝
@@ -1396,15 +1396,15 @@
       
     - name: Visa
       style: basic
-      icon: cc visa
+      icon: cc visa blue
       url: https://www.visa.cn/
       
     - name: MasterCard
       style: basic
-      icon: cc mastercard
+      icon: cc mastercard orange
       url: https://www.mastercard.com.cn/zh-cn.html
       
     - name: American Express
       style: basic
-      icon: cc amex
+      icon: cc amex blue
       url: https://www.americanexpress.com.cn/
