@@ -1389,6 +1389,10 @@
     - name: 建设银行
       style: basic
       url: http://www.ccb.com/cn/home/indexv3.html
+
+    - name: 中国银行
+      style: basic
+      url: https://www.boc.cn/index.html
       
     - name: 工商银行
       style: basic
@@ -1408,3 +1412,8 @@
       style: basic
       icon: cc amex blue
       url: https://www.americanexpress.com.cn/
+      
+    - name: JCB
+      style: basic
+      icon: cc jcb blue
+      url: http://www.jcbcard.cn/
