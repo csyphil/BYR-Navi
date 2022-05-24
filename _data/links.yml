@@ -24,6 +24,7 @@
     - name: 脉脉
       style: blue
       url: https://maimai.cn/
+      
 - categories:
   - name: 购物
     links:
@@ -498,7 +499,6 @@
       style: blue
       url: https://adzhp.cn/mian-fei-shi-pin.html
       
-
 - categories:
   - name: 个人建站
     links:
@@ -525,11 +525,6 @@
       style: basic
       icon: save outline
       url: https://pan.philsilver.xyz/
-      
-#     - name: 导航
-#       style: basic
-#       icon: compass 
-#       url: https://philsilver.cf/    
       
     - name: Server Status
       style: basic
@@ -1354,7 +1349,6 @@
       style: basic
       icon: envelope grey
       url: https://mail.td/zh
-      
       
 - catagories:
   - name: 信用理财
