@@ -590,6 +590,21 @@
       icon: cloud white
       url: https://dash.cloudflare.com
       
+    - name: Google Cloud
+      style: basic
+      icon: horizontally flipped cloud blue
+      url: https://cloud.google.com/
+      
+    - name: Azure
+      style: basic
+      icon: microsoft blue
+      url: https://azure.microsoft.com/
+      
+    - name: AWS
+      style: basic
+      icon: aws orange
+      url: https://aws.amazon.com/
+      
 
   - name: 技术服务
     links:
