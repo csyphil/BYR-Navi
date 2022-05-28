@@ -569,6 +569,11 @@
       style: blue
       icon: server white
       url: https://my.vultr.com/
+      
+    - name: 腾讯云
+      style: blue
+      icon: server white
+      url: https://console.cloud.tencent.com/lighthouse/instance/index
 
     - name: Oracle Cloud
       style: blue
@@ -580,11 +585,6 @@
       icon: wave square white
       url: https://www.netcup-status.de/
       
-    - name: 腾讯云
-      style: blue
-      icon: server white
-      url: https://console.cloud.tencent.com/lighthouse/instance/index
-
     - name: Cloudflare
       style: orange
       icon: cloud white
