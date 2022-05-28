@@ -550,6 +550,11 @@
       style: blue
       icon: paypal white
       url: https://www.paypal.com/c2/home
+     
+    - name: Stripe
+      style: violet
+      icon: stripe s
+      url: https://stripe.com/
       
     - name: Netcup
       style: teal
