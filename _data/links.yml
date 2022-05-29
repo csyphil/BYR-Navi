@@ -749,14 +749,15 @@
     - name: 奇他博客
       style: blue
       url: https://bbs.zhiqan.com/
-
-    - name: 极客公园
-      style: black
-      url: https://gitcafe.net/
       
     - name: 缙哥哥博客
       style: basic
       url: https://www.dujin.org/
+      
+    - name: 科技玩家
+      style: basic
+      icon: lightbulb outline yellow
+      url: https://www.kejiwanjia.com/
       
     - name: 笨猫博客
       style: basic
@@ -778,11 +779,6 @@
       style: basic
       icon: mountain green
       url: https://hostloc.1234234.xyz/#/
-      
-    - name: 科技玩家
-      style: basic
-      icon: lightbulb outline yellow
-      url: https://www.kejiwanjia.com/
       
     - name: 笑花落Cimen's
       style: basic
