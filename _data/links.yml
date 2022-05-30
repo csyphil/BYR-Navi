@@ -398,7 +398,7 @@
       
 
   - name: 影音娱乐
-    links:
+    links:、
     - name: Youtube
       icon: youtube red
       style: basic
@@ -419,13 +419,9 @@
       style: basic
       url: https://www.pinterest.com/
       
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
-
-    - name: 土豆
-      style: basic
-      url: https://tudou.com/
+    - name: 哔哩哔哩
+      style: pink
+      url: https://bilibili.com/
 
     - name: 爱奇艺
       style: green
@@ -438,10 +434,14 @@
     - name: 腾讯视频
       style: basic
       url: https://v.qq.com/
+      
+    - name: 优酷
+      style: basic
+      url: https://youku.com/
 
-    - name: 哔哩哔哩
-      style: pink
-      url: https://bilibili.com/
+    - name: 土豆
+      style: basic
+      url: https://tudou.com/
 
     - name: AcFun
       style: orange
@@ -549,7 +549,7 @@
     - name: PayPal
       style: blue
       icon: paypal white
-      url: https://www.paypal.com/c2/home
+      url: https://www.paypal.com/
      
     - name: Stripe
       style: violet
