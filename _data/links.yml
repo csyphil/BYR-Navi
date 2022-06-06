@@ -693,6 +693,11 @@
       icon: angle double right green
       url: https://www.ipaddress.com/
       
+    - name: 恩山论坛
+      style: orange
+      icon: wifi
+      url: https://www.right.com.cn/forum/
+      
     - name: LOC图床
       style: basic
       icon: image outline
