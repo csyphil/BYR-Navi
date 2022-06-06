@@ -694,8 +694,8 @@
       url: https://www.ipaddress.com/
       
     - name: 恩山论坛
-      style: orange
-      icon: wifi black
+      style: basic
+      icon: wifi orange
       url: https://www.right.com.cn/forum/
       
     - name: LOC图床
