@@ -695,7 +695,7 @@
       
     - name: 恩山论坛
       style: orange
-      icon: wifi
+      icon: wifi black
       url: https://www.right.com.cn/forum/
       
     - name: LOC图床
