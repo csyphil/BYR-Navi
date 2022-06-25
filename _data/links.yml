@@ -707,6 +707,10 @@
       icon: project diagram blue
       url: https://www.boce.com/
       
+    - name: Google Domain
+      style: basic
+      url: https://domains.google.com/
+      
   - name: 站长博客
     links:
     - name: <span class="ui medium black text">大鸟博客
