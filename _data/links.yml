@@ -635,24 +635,23 @@
       style: basic
       url: https://www.ipip.net/ip.html
 
-    - name: Namesilo域名
+    - name: Namesilo
       style: basic
       url: https://www.namesilo.com/
       
-    - name: Godaddy域名
+    - name: Godaddy
       style: basic
       url: https://dcc.godaddy.com/domains
       
-    - name: IT狗
+    - name: IT dog
       style: basic
-      icon: dog 
       url: https://www.itdog.cn/
 
-    - name: Freenom免费域名
+    - name: Freenom
       style: basic
       url: https://my.freenom.com/clientarea.php?action=domains
 
-    - name: Sukka网络诊断与调试
+    - name: Sukka网络诊断
       style: black
       url: https://debug.skk.moe/
 
@@ -666,7 +665,7 @@
       icon: globe blue
       url: https://www.toolsdaquan.com/ipcheck/
 
-    - name: Greasy Fork 脚本
+    - name: Greasy Fork
       style: black
       url: https://greasyfork.org/zh-CN
 
