@@ -664,7 +664,7 @@
       style: basic
       url: https://mtr.sh/
       
-    - name: IP可用性检测
+    - name: IP被墙检测
       style: basic
       icon: globe blue
       url: https://www.toolsdaquan.com/ipcheck/
