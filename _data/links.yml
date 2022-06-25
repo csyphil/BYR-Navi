@@ -655,12 +655,16 @@
       style: black
       url: https://debug.skk.moe/
 
-    - name: Chinaz站长工具
+    - name: Chinaz工具
       style: basic
       icon: tools 
       url: https://ping.chinaz.com/
       
-    - name: IP可用性检测工具
+    - name: MTR.sh 
+      style: basic
+      url: https://mtr.sh/
+      
+    - name: IP可用性检测
       style: basic
       icon: globe blue
       url: https://www.toolsdaquan.com/ipcheck/
@@ -677,10 +681,6 @@
     - name: 在线扒站
       style: basic
       url: https://bazhan.me/
-      
-    - name: MTR.sh 
-      style: basic
-      url: https://mtr.sh/
       
     - name: 测速网
       style: basic
