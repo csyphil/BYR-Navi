@@ -280,7 +280,7 @@
   shortcut:
     icon: film blue inverted
     style: black
-    show: true
+    show: false
 
 - id: yyetss
   name: 人人影视开源
