@@ -198,6 +198,11 @@
       icon: cloud upload brown
       url: https://www.jianguoyun.com/
       
+    - name: 123云盘
+      style: basic
+      icon: cloud download purple
+      url: https://www.123pan.com/
+      
   - name: 社交
     links:
     - name: Telegram电报
