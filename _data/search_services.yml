@@ -320,7 +320,7 @@
   shortcut:
     icon: blog blue inverted
     style: black
-    show: true
+    show: false
     
 - id: whois
   name: Whois
