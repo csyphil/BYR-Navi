@@ -36,7 +36,7 @@
   shortcut:
     icon: location arrow blue inverted
     style: black
-    show: true
+    show: false
     
 - id: kuaidi100
   name: 快递查询
@@ -141,7 +141,7 @@
   shortcut:
     icon: atom blue inverted
     style: black
-    show: true
+    show: false
 
 - id: etymonline
   name: Etymonline
@@ -269,7 +269,7 @@
   shortcut:
     icon: closed captioning blue inverted
     style: black
-    show: true
+    show: false
 
 - id: pianku
   name: 片库
@@ -280,7 +280,7 @@
   shortcut:
     icon: film blue inverted
     style: black
-    show: true
+    show: false
 
 - id: yyetss
   name: 人人影视开源
@@ -288,7 +288,7 @@
   shortcut:
     icon: film blue inverted
     style: black
-    show: true
+    show: false
 
 - id: loc
   name: 全球主机论坛
