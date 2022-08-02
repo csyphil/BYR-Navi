@@ -52,7 +52,7 @@
   shortcut:
     icon: shipping fast orange inverted
     style: black
-    show: true
+    show: false
 
 - id: wikipedia
   name: 维基百科
@@ -141,7 +141,7 @@
   shortcut:
     icon: atom blue inverted
     style: black
-    show: true
+    show: false
 
 - id: etymonline
   name: Etymonline
@@ -269,7 +269,7 @@
   shortcut:
     icon: closed captioning blue inverted
     style: black
-    show: true
+    show: false
 
 - id: pianku
   name: 片库
@@ -288,7 +288,7 @@
   shortcut:
     icon: film blue inverted
     style: black
-    show: true
+    show: false
 
 - id: loc
   name: 全球主机论坛
