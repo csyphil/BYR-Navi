@@ -52,7 +52,7 @@
   shortcut:
     icon: shipping fast orange inverted
     style: black
-    show: true
+    show: false
 
 - id: wikipedia
   name: 维基百科
