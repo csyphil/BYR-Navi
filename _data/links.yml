@@ -716,6 +716,11 @@
       style: basic
       url: https://domains.google.com/
       
+    - name: itellyou
+      style: basic
+      icon: windows blue
+      url: https://msdn.itellyou.cn/
+      
   - name: 站长博客
     links:
     - name: <span class="ui medium black text">大鸟博客
