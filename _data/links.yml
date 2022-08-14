@@ -629,7 +629,6 @@
       
     - name: 蓝点网
       style: blue
-      icon: windows white
       url: https://www.landian.vip/os/win
 
     - name: 远景论坛
