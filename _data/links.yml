@@ -658,8 +658,7 @@
       url: https://debug.skk.moe/
 
     - name: Chinaz工具
-      style: basic
-      icon: tools 
+      style: basic 
       url: https://ping.chinaz.com/
       
     - name: 拔测
@@ -667,7 +666,7 @@
       icon: project diagram blue
       url: https://www.boce.com/
       
-    - name: IP被墙检测
+    - name: IP墙检测
       style: basic
       icon: globe blue
       url: https://www.toolsdaquan.com/ipcheck/
