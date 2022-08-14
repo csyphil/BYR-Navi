@@ -684,20 +684,20 @@
       style: basic
       url: https://bazhan.me/
       
-    - name: 测速网
+    - name: itellyou
       style: basic
-      icon: tachometer alternate
-      url: https://www.speedtest.net/
+      icon: windows blue
+      url: https://msdn.itellyou.cn/
       
     - name: IP Address
       style: basic
       icon: angle double right green
       url: https://www.ipaddress.com/
       
-    - name: itellyou
+    - name: 测速网
       style: basic
-      icon: windows blue
-      url: https://msdn.itellyou.cn/
+      icon: tachometer alternate
+      url: https://www.speedtest.net/
       
     - name: FAST
       style: basic
