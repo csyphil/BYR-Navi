@@ -636,9 +636,9 @@
       style: blue
       url: https://bbs.pcbeta.com/
       
-    - name: IPIP.net
+    - name: IT dog
       style: basic
-      url: https://www.ipip.net/ip.html
+      url: https://www.itdog.cn/
 
     - name: Namesilo
       style: basic
@@ -647,10 +647,6 @@
     - name: Godaddy
       style: basic
       url: https://dcc.godaddy.com/domains
-      
-    - name: IT dog
-      style: basic
-      url: https://www.itdog.cn/
 
     - name: Freenom
       style: basic
