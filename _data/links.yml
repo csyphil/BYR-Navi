@@ -697,7 +697,7 @@
     - name: 测速网
       style: basic
       icon: tachometer alternate
-      url: https://www.speedtest.net/
+      url: https://www.speedtest.cn/
       
     - name: FAST
       style: basic
