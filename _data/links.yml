@@ -662,6 +662,11 @@
       icon: tools 
       url: https://ping.chinaz.com/
       
+    - name: 拔测
+      style: basic
+      icon: project diagram blue
+      url: https://www.boce.com/
+      
     - name: IP被墙检测
       style: basic
       icon: globe blue
@@ -690,17 +695,10 @@
       icon: angle double right green
       url: https://www.ipaddress.com/
       
-
-      
     - name: LOC图床
       style: basic
       icon: image outline
       url: https://www.locimg.com/
-
-    - name: 拔测
-      style: basic
-      icon: project diagram blue
-      url: https://www.boce.com/
       
     - name: Google Domains
       style: basic
