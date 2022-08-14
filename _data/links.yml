@@ -618,7 +618,7 @@
       icon: server white
       url: https://hostloc.com/forum-45-1.html
 
-    - name: 我爱卡
+    - name: 我爱卡论坛
       style: basic
       icon: credit card outline orange
       url: https://bbs.51credit.com/
@@ -636,6 +636,11 @@
       style: blue
       url: https://bbs.pcbeta.com/
       
+    - name: 恩山论坛
+      style: basic
+      icon: wifi orange
+      url: https://www.right.com.cn/forum/
+      
     - name: IT dog
       style: basic
       url: https://www.itdog.cn/
@@ -643,10 +648,6 @@
     - name: Namesilo
       style: basic
       url: https://www.namesilo.com/
-      
-    - name: Godaddy
-      style: basic
-      url: https://dcc.godaddy.com/domains
 
     - name: Freenom
       style: basic
@@ -689,10 +690,7 @@
       icon: angle double right green
       url: https://www.ipaddress.com/
       
-    - name: 恩山论坛
-      style: basic
-      icon: wifi orange
-      url: https://www.right.com.cn/forum/
+
       
     - name: LOC图床
       style: basic
