@@ -661,10 +661,6 @@
       icon: tools 
       url: https://ping.chinaz.com/
       
-    - name: MTR.sh 
-      style: basic
-      url: https://mtr.sh/
-      
     - name: IP被墙检测
       style: basic
       icon: globe blue
@@ -686,7 +682,7 @@
     - name: 测速网
       style: basic
       icon: tachometer alternate
-      url: https://www.speedtest.cn/
+      url: https://www.speedtest.net/
       
     - name: IP Address
       style: basic
@@ -716,6 +712,16 @@
       style: basic
       icon: windows blue
       url: https://msdn.itellyou.cn/
+      
+    - name: fast.com
+      style: basic
+      icon: tachometer alternate
+      url: https://fast.com
+      
+    - name: cf speedtest
+      style: basic
+      icon: tachometer alternate
+      url: speed.cloudflare.com
       
   - name: 站长博客
     links:
