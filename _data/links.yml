@@ -629,21 +629,22 @@
       
     - name: 蓝点网
       style: blue
+      icon: windows blue
       url: https://www.landian.vip/os/win
 
     - name: 远景论坛
       style: blue
       url: https://bbs.pcbeta.com/
       
+    - name: IT dog
+      style: basic
+      url: https://www.itdog.cn/
+      
     - name: 恩山论坛
       style: basic
       icon: wifi orange
       url: https://www.right.com.cn/forum/
       
-    - name: IT dog
-      style: basic
-      url: https://www.itdog.cn/
-
     - name: Namesilo
       style: basic
       url: https://www.namesilo.com/
