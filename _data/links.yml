@@ -628,7 +628,7 @@
       url: https://www.kafan.cn/
       
     - name: 蓝点网
-      style: blue
+      style: basic
       icon: windows blue
       url: https://www.landian.vip/os/win
 
@@ -694,15 +694,6 @@
       icon: angle double right green
       url: https://www.ipaddress.com/
       
-    - name: LOC图床
-      style: basic
-      icon: image outline
-      url: https://www.locimg.com/
-      
-    - name: Google Domains
-      style: basic
-      url: https://domains.google.com/
-      
     - name: itellyou
       style: basic
       icon: windows blue
@@ -717,6 +708,16 @@
       style: basic
       icon: tachometer alternate
       url: speed.cloudflare.com
+      
+    - name: LOC图床
+      style: basic
+      icon: image outline
+      url: https://www.locimg.com/
+      
+    - name: Google Domains
+      style: basic
+      url: https://domains.google.com/
+      
       
   - name: 站长博客
     links:
