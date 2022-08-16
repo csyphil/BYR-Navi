@@ -129,7 +129,7 @@
       url: https://trello.com/
       
     - name: Notion
-      icon: note
+      icon: sticky note outline
       style: basic
       url: https://www.notion.so/
 
