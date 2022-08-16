@@ -310,7 +310,7 @@
       style: basic
       url: https://meeting.tencent.com/
       
-    - name: Zoom
+    - name: ZOOM
       icon: video blue
       style: basic
       url: https://zoom.us/
