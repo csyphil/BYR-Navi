@@ -1322,16 +1322,12 @@
       url: https://tiomg.org/
       
     - name: 阅后即焚
-      style: grey
-      url: https://sesme.co/
+      style: blue
+      url: https://p.xkx.me/
 
     - name: YAML在线编辑(校验)器
       style: basic
       url: https://www.bejson.com/validators/yaml_editor/
-
-    - name: PastMe,阅后即焚
-      style: blue
-      url: https://p.xkx.me/
       
     - name: Typingclub
       icon: keyboard 
