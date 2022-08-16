@@ -122,6 +122,16 @@
       icon: github black
       style: basic
       url: https://github.com/
+      
+    - name: Trello
+      icon: trello blue
+      style: basic
+      url: https://trello.com/
+      
+    - name: Notion
+      icon: note
+      style: basic
+      url: https://www.notion.so/
 
     - name: QQ邮箱
       icon: qq black
