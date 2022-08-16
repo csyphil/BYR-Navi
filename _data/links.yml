@@ -498,11 +498,7 @@
       style: basic
       url: https://www.1905.com/
       
-    - name: 2BTV
-      style: basic
-      url: https://www.2btv.eu/      
-      
-    - name: 久久影视网
+    - name: 久久影视
       style: green
       url: https://www.jiujiukanpian.com/
 
