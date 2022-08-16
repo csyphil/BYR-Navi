@@ -3,13 +3,13 @@
 #   url: /
 #   active_key: home
 
-- name: 夜雨夕岚
-  icon: wordpress simple
-  url: https://blog.philsilver.xyz/
+# - name: 夜雨夕岚
+#   icon: wordpress simple
+#   url: https://blog.philsilver.xyz/
  
-- name: Notion
-  icon: sticky note outline
-  url: https://www.notion.so/
+# - name: Notion
+#   icon: sticky note outline
+#   url: https://www.notion.so/
   
 # - name: 定制化
 #   icon: tools
