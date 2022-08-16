@@ -1216,11 +1216,6 @@
       icon: comment dots outline white
       url: https://element.io/
       
-    - name: 通用WIFI后台
-      style: basic
-      icon: wifi blue
-      url: http://192.168.1.1/
-      
       
   - name: 资源导航
     links:       
