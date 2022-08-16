@@ -1276,14 +1276,6 @@
       style: basic
       url: http://hao.199it.com/
       
-    - name: 国外巴巴网址导航
-      style: basic
-      url: http://www.guowai88.com/default.asp
-      
-    - name: 国外网站推荐
-      style: basic
-      url: https://www.egouz.com/
-      
     - name: AnywhereAnything
       style: teal
       url: http://lackar.com/aa/
