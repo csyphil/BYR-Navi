@@ -629,6 +629,19 @@
       icon: credit card outline orange
       url: https://bbs.51credit.com/
       
+    - name: 恩山论坛
+      style: basic
+      icon: wifi orange
+      url: https://www.right.com.cn/forum/
+      
+    - name: Namesilo
+      style: basic
+      url: https://www.namesilo.com/
+
+    - name: Freenom
+      style: basic
+      url: https://my.freenom.com/clientarea.php?action=domains
+      
     - name: 卡饭网
       style: basic
       url: https://www.kafan.cn/
@@ -645,19 +658,6 @@
     - name: IT dog
       style: basic
       url: https://www.itdog.cn/
-      
-    - name: 恩山论坛
-      style: basic
-      icon: wifi orange
-      url: https://www.right.com.cn/forum/
-      
-    - name: Namesilo
-      style: basic
-      url: https://www.namesilo.com/
-
-    - name: Freenom
-      style: basic
-      url: https://my.freenom.com/clientarea.php?action=domains
 
     - name: Sukka网络诊断
       style: black
