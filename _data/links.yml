@@ -713,7 +713,7 @@
     - name: cf speedtest
       style: basic
       icon: tachometer alternate
-      url: speed.cloudflare.com
+      url: https://speed.cloudflare.com
       
     - name: LOC图床
       style: basic
