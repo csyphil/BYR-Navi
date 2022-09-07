@@ -225,21 +225,6 @@
       icon: twitter blue
       url: https://twitter.com/
       
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-      
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
-
-    - name: 豆瓣
-      icon: seedling green inverted
-      style: basic
-      url: https://www.douban.com/
-      
     - name: Google Voice
       icon: phone square alternate green
       style: basic
@@ -319,6 +304,21 @@
       icon: video blue
       style: basic
       url: https://duo.google.com/
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+      
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://weibo.com/
+
+    - name: 豆瓣
+      icon: seedling green inverted
+      style: basic
+      url: https://www.douban.com/
       
 
   - name: 学习
