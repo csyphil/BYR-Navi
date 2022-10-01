@@ -270,16 +270,6 @@
       style: basic
       url: https://www.reddit.com/
 
-    - name: GETTR
-      icon: feather red
-      style: basic
-      url: https://gettr.com/
-      
-    - name: Tumblr
-      icon: tumblr black
-      style: basic
-      url: https://www.tumblr.com/
-
     - name: Linkedin
       icon: linkedin blue
       style: basic
