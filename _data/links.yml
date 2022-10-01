@@ -750,10 +750,6 @@
     - name: 新手站长网
       style: basic
       url: https://www.xinshouzhanzhang.com/
-
-    - name: 奇他博客
-      style: blue
-      url: https://bbs.zhiqan.com/
       
     - name: 缙哥哥博客
       style: basic
