@@ -457,10 +457,6 @@
       style: orange
       url: https://www.acfun.cn/
 
-    - name: 腾讯动漫
-      style: basic
-      url: https://ac.qq.com/
-
     - name: 豆瓣电影
       style: basic
       url: https://movie.douban.com/
@@ -488,10 +484,6 @@
     - name: 美剧天堂
       style: blue
       url: https://www.meijutt.tv/
-      
-    - name: 电影1905
-      style: basic
-      url: https://www.1905.com/
       
     - name: 久久影视
       style: green
