@@ -305,6 +305,16 @@
       style: basic
       url: https://www.douban.com/
       
+#     - name: GETTR
+#       icon: feather red
+#       style: basic
+#       url: https://gettr.com/
+
+#     - name: Tumblr
+#       icon: tumblr black
+#       style: basic
+#       url: https://www.tumblr.com/
+      
 
   - name: 学习
     links:
