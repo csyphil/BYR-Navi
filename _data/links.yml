@@ -1064,15 +1064,7 @@
       
 - categories:
   - name: 学术研究
-    links:
-    - name: 中文马克思主义文库-毛泽东
-      style: red
-      url: https://www.marxists.org/chinese/maozedong/index.htm
-
-    - name: 毛泽东博览
-      style: red 
-      url: http://www.mzdbl.cn/
-      
+    links:      
     - name: 中国国家图书馆
       style: red
       url: http://www.nlc.cn/
