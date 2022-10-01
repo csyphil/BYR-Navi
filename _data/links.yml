@@ -43,11 +43,6 @@
     - name: <span class="ui medium black text">美团 
       style: yellow
       url: https://meituan.com/      
-
-    - name: 拼多多
-      style: basic
-      icon: store red
-      url: https://mobile.pinduoduo.com/
       
     - name: Amazon
       icon: amazon yellow
