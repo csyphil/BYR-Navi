@@ -391,10 +391,10 @@
     - name: 我要自学网
       style: basic
       url: https://www.51zxw.net/
-
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
+      
+    - name: 英语学习导航
+      style: orange
+      url: https://www.up-6.com/      
 
     - name: 掌阅读书
       style: basic
@@ -1201,10 +1201,6 @@
     - name: 虫部落
       style: green
       url: https://www.chongbuluo.com/
-      
-    - name: 英语学习导航
-      style: orange
-      url: https://www.up-6.com/      
 
     - name: 考试酷
       style: blue
