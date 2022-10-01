@@ -418,16 +418,6 @@
       icon: film red
       style: basic
       url: https://www.netflix.com/
-
-    - name: Castbox
-      icon: podcast orange
-      style: basic
-      url: https://castbox.fm/home?country=cn
-
-    - name: Pinterest
-      icon: pinterest red
-      style: basic
-      url: https://www.pinterest.com/
       
     - name: 哔哩哔哩
       style: pink
@@ -496,6 +486,17 @@
     - name: 爱达杂铺
       style: blue
       url: https://adzhp.cn/mian-fei-shi-pin.html
+      
+    - name: Castbox
+      icon: podcast orange
+      style: basic
+      url: https://castbox.fm/home?country=cn
+
+    - name: Pinterest
+      icon: pinterest red
+      style: basic
+      url: https://www.pinterest.com/
+      
       
 - categories:
   - name: 个人建站
