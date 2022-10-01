@@ -388,12 +388,12 @@
       style: basic
       url: http://www.miaomiaoxue.com/
 
-    - name: 我要自学网
+    - name: 自学网
       style: basic
       url: https://www.51zxw.net/
       
-    - name: 英语学习导航
-      style: orange
+    - name: 英语导航
+      style: basic
       url: https://www.up-6.com/      
 
     - name: 掌阅读书
