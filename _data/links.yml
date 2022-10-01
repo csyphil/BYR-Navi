@@ -280,15 +280,15 @@
       style: basic
       url: https://meeting.tencent.com/
       
-    - name: ZOOM
-      icon: video blue
-      style: basic
-      url: https://zoom.us/
+#     - name: ZOOM
+#       icon: video blue
+#       style: basic
+#       url: https://zoom.us/
 
-    - name: Google Duo
-      icon: video blue
-      style: basic
-      url: https://duo.google.com/
+#     - name: Google Duo
+#       icon: video blue
+#       style: basic
+#       url: https://duo.google.com/
 
     - name: 知乎
       icon: zhihu blue
