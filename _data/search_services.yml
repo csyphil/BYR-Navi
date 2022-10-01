@@ -20,7 +20,7 @@
   shortcut:
     icon: microsoft teal inverted
     style: black
-    show: true
+    show: false
 
 - id: baidumap
   name: 百度地图
@@ -92,7 +92,7 @@
   shortcut:
     icon: seedling green inverted
     style: black
-    show: true
+    show: false
 
 - id: weibo
   name: 微博
@@ -100,7 +100,7 @@
   shortcut:
     icon: weibo red inverted
     style: black
-    show: true
+    show: false
 
 - id: weixinmp
   name: 微信公众号
