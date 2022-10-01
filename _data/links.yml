@@ -1170,10 +1170,6 @@
     - name: 小鸡词典
       style: orange
       url: https://jikipedia.com/
-     
-    - name: 非酋部落
-      style: basic
-      url: https://tik.9929.us/#/dashboard
       
     - name: 16personalities
       style: teal
@@ -1182,19 +1178,10 @@
     - name: Python Download
       style: brown
       url: https://www.python.org/downloads/      
-
-    - name: 联想社区小新专栏
-      style: basic
-      url: https://club.lenovo.com.cn/forum-1172-1.html?filter=dateline&orderby=dateline
       
     - name: Time.is
       style: red
       url: https://time.is/
-      
-    - name: Tiktok Analyzer
-      style: black
-      icon: play
-      url: https://urlebird.com/
 
     - name: Signal
       style: basic
