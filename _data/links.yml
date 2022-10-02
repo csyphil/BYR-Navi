@@ -1,6 +1,24 @@
 - categories:
   - name: 招聘
     links:
+    - name: 飞书
+      style: basic
+      icon: dove blue
+      url: https://www.feishu.cn/
+      
+    - name: 钉钉
+      style: basic
+      url: https://www.dingtalk.com/
+      
+    - name: 企业微信
+      style: basic
+      url: https://work.weixin.qq.com/
+      
+    - name: 腾讯会议
+      icon: video blue
+      style: basic
+      url: https://meeting.tencent.com/
+      
     - name: BOSS直聘
       style: teal
       url: https://www.zhipin.com/shenzhen/
@@ -274,11 +292,6 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
-
-    - name: 腾讯会议
-      icon: video blue
-      style: basic
-      url: https://meeting.tencent.com/
       
 #     - name: ZOOM
 #       icon: video blue
@@ -614,7 +627,7 @@
       
     - name: 恩山论坛
       style: basic
-      icon: wifi orange
+      icon: ethernet orange
       url: https://www.right.com.cn/forum/
       
     - name: Namesilo
