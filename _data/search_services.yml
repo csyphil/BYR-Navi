@@ -299,7 +299,7 @@
     show: true
 
 - id: ghxi
-  name: 果核剥壳软件
+  name: 果核剥壳
   url: https://www.ghxi.com/?s={query}
   shortcut:
     icon: download alternate orange inverted
