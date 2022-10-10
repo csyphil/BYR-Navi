@@ -271,16 +271,16 @@
     style: black
     show: false
 
-- id: pianku
-  name: 片库
-  url: https://mypianku.net/s/{query}.html
-  transcode:
-    from: '%'
-    to: '_'
-  shortcut:
-    icon: film blue inverted
-    style: black
-    show: false
+# - id: pianku
+#   name: 片库
+#   url: https://mypianku.net/s/{query}.html
+#   transcode:
+#     from: '%'
+#     to: '_'
+#   shortcut:
+#     icon: film blue inverted
+#     style: black
+#     show: false
 
 - id: yyetss
   name: 人人影视开源
