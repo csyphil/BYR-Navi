@@ -620,15 +620,15 @@
       icon: server white
       url: https://hostloc.com/forum-45-1.html
       
-    - name: V2EX
-      style: basic
-      url: https://www.v2ex.com/
-      
     - name: 恩山无线
       style: basic
       icon: ethernet orange
       url: https://www.right.com.cn/forum/
 
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
+      
     - name: 我爱卡论坛
       style: basic
       icon: credit card outline orange
