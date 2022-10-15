@@ -615,11 +615,15 @@
 
   - name: 技术服务
     links:
-    - name: 全球主机交流论坛(LOC)
+    - name: HOSTLOC
       style: purple
       icon: server white
       url: https://hostloc.com/forum-45-1.html
-
+      
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
+      
     - name: 我爱卡论坛
       style: basic
       icon: credit card outline orange
