@@ -624,15 +624,15 @@
       style: basic
       url: https://www.v2ex.com/
       
+    - name: 恩山无线
+      style: basic
+      icon: ethernet orange
+      url: https://www.right.com.cn/forum/
+
     - name: 我爱卡论坛
       style: basic
       icon: credit card outline orange
       url: https://bbs.51credit.com/
-      
-    - name: 恩山论坛
-      style: basic
-      icon: ethernet orange
-      url: https://www.right.com.cn/forum/
       
     - name: Namesilo
       style: basic
