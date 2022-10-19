@@ -1151,7 +1151,7 @@
       
     - name: Python Download
       style: basic
-      icon: python brown
+      icon: python blue
       url: https://www.python.org/downloads/      
       
     - name: Time.is
