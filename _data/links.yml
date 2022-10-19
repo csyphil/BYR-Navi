@@ -221,7 +221,7 @@
     - name: Telegram
       icon: telegram plane blue
       style: basic
-      url: https://telegram.org/    
+      url: https://web.telegram.org/    
     
     - name: Twitter
       style: basic
