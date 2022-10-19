@@ -147,7 +147,7 @@
       url: https://www.notion.so/
 
     - name: QQ邮箱
-      icon: qq black
+      icon: qq blue
       style: basic
       url: https://mail.qq.com/
       
@@ -593,8 +593,8 @@
       url: https://www.netcup-status.de/
       
     - name: Cloudflare
-      style: orange
-      icon: cloud white
+      style: basic
+      icon: cloudflare orange
       url: https://dash.cloudflare.com
       
     - name: Google Cloud
@@ -1160,7 +1160,8 @@
       url: https://www.16personalities.com/
       
     - name: Python Download
-      style: brown
+      style: basic
+      icon: python brown
       url: https://www.python.org/downloads/      
       
     - name: Time.is
@@ -1312,7 +1313,7 @@
       
     - name: icon|Font Awesome
       style: basic
-      icon: flag outline blue
+      icon: font awesome flag blue
       url: https://fontawesome.com/v5.15/icons?d=gallery&p=2
       
     - name: 阿里矢量图标库
