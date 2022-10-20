@@ -30,13 +30,13 @@
     style: black
     show: true
 
-- id: amap
-  name: 高德地图
-  url: https://www.amap.com/search?query={query}
-  shortcut:
-    icon: location arrow blue inverted
-    style: black
-    show: false
+# - id: amap
+#   name: 高德地图
+#   url: https://www.amap.com/search?query={query}
+#   shortcut:
+#     icon: location arrow blue inverted
+#     style: black
+#     show: false
     
 - id: kuaidi100
   name: 快递查询
@@ -124,7 +124,7 @@
   shortcut:
     icon: graduation cap blue inverted
     style: black
-    show: true
+    show: false
 
 
 - id: googlescholar
@@ -133,15 +133,15 @@
   shortcut:
     icon: graduation cap red inverted
     style: black
-    show: true
-
-- id: ieeexplore
-  name: IEEE Xplore
-  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText={query}
-  shortcut:
-    icon: atom blue inverted
-    style: black
     show: false
+
+# - id: ieeexplore
+#   name: IEEE Xplore
+#   url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText={query}
+#   shortcut:
+#     icon: atom blue inverted
+#     style: black
+#     show: false
 
 - id: etymonline
   name: Etymonline
