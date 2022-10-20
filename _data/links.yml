@@ -163,18 +163,8 @@
 
     - name: ProtonMail
       style: basic
-      icon: envelope grey
+      icon: envelope purple
       url: https://protonmail.com/zh-Hans/
-      
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-      
-    - name: DeepL翻译
-      icon: language grey
-      style: basic
-      url: https://www.deepl.com/translator
       
     - name: 有道翻译
       style: basic
@@ -1109,6 +1099,11 @@
     - name: 畅想之星随书资源数据库
       style: grey
       url: http://www.bj.cxstar.cn/bookcd/index/index.do
+      
+    - name: DeepL翻译
+      icon: language grey
+      style: basic
+      url: https://www.deepl.com/translator
 
       
   - name: 其他书签
